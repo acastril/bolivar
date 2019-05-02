@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+# filter.sh - a front-end to filter.py
+# Usage: find corpus -name *.txt | parallel ./filter.sh {}
+
 
 FILE=$1
 FILTERED='./filtered'
