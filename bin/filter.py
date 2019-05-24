@@ -1,40 +1,49 @@
 #!/usr/bin/env python
 
+# filter.py - given a file name, clean the file a bit
 
+
+# require
 import sys
 import re
 
 # sanity check
-
 if len( sys.argv ) != 2 :
 	sys.stderr.write ( 'Usage: ' + sys.argv[ 0 ] + " <file>\n" )
 	quit()
 	
 
 # get input
-
 file = sys.argv [1]
 
-# read the file line by line
+# initialize
+data = ''
+
+# open the file
 with open( file ) as handle :
-	for line in handle : 
+
+	# read a line
+	for line in handle  : 
 	
-		# Do substitutions!
+		# do substitutions
 		line = re.sub( "\t" , " ", line)
 		line = re.sub( " +" , " ", line)
+		line = re.sub( "^ " , "", line)
+		line = re.sub( "\." , "", line)
 		line = re.sub( " \n" , "", line)
 		line = re.sub( "­" , "", line)
 		
+		# check for blank line
 		if ( line == "\n" ) : continue
 		
-		# Check for end
+		# check for end
+		if ( line == 'Secciones\n') : break
 		
-		if ( line == ' Secciones\n') : break
-		
-		else : print (line)
-
-#output & done
+		# update the data
+		else : data = data + line + "\n"
 
 
-
+# remove multiple carriage returns, output, and done
+data = re.sub( "\n+", "\n\n", data )
+print( data )
 exit()
