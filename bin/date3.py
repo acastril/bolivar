@@ -2,10 +2,17 @@
 
 # Aim is to extract the corresponding date for each document
 
+import sys
 
-name = input("Enter file:")
+# sanity check
+if len( sys.argv ) != 2 :
+        sys.stderr.write( 'Usage: ' + sys.argv[ 0 ] + " <file>\n" )
+        exit()
 
-fhand = open(name)
+# get input
+file = sys.argv[ 1 ]
+
+fhand = open(file)
 
 # loop through text for each line and format lines
 for line in fhand:
@@ -14,9 +21,11 @@ for line in fhand:
 	# Isolate lines that begin with 'Portada'
 	if not line.startswith('DOCUMENTO'): continue 
 	words = line.split()
-
+	month = ''
+	year = ''
 	# Go through 'DOCUMENTO' line to search for main type
 	for word in words:
+		
 		if word == 'JANUARIO':
 			month= 'January'
 		elif word == 'FEBRERO':
