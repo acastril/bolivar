@@ -9,7 +9,9 @@ CREATE TABLE documents (
 
 	filename   TEXT,
 	did        TEXT,
-	date       TEXT,
+	day        TEXT,
+	month      TEXT,
+	year       TEXT,
 	addressee  TEXT,
 	place      TEXT,
 	type       TEXT

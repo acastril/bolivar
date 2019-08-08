@@ -5,7 +5,7 @@
 pattern = "\d+ DE \w+ DE \d\d\d\d"
 import sys
 import re
-import os
+
 
 # sanity check
 if len( sys.argv ) != 2 :
@@ -15,11 +15,9 @@ if len( sys.argv ) != 2 :
 # get input
 file = sys.argv[ 1 ]
 
-# extracting key/filename
-key, extension = os.path.splitext(file)
-key = os.path.split(key)[1]
-
 with open(file) as handle: line = handle.readline()
+
+line = line [5:12]
 date = re.findall(pattern,line)
 if len(date) == 1:
 	date = date[0]
@@ -27,6 +25,5 @@ if len(date) == 1:
 	day = parts[0]
 	month = parts[2]
 	year = parts[4]
-	print("UPDATE documents SET day = '%s' WHERE filename is '%s';"  % (day, key))
-	print("UPDATE documents SET month = '%s' WHERE filename is '%s';"  % (month, key) )
-	print("UPDATE documents SET year = '%s' WHERE filename is '%s';"  % (year, key) )
+	print (day, month, year)
+	#print("UPDATE documents SET day = '%s' WHERE filename is 'article-4444'"  % day )
