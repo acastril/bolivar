@@ -7,10 +7,9 @@
 
 
 # configure
-use constant FACETFIELD => ( 'facet_keyword', 'facet_person' );
-use constant SOLR       => 'http://localhost:8983/solr/carrels-reader';
-use constant TXT        => './txt';
-use constant CARREL     => 'A443285322';
+use constant FACETFIELD => ( 'facet_type' );
+use constant SOLR       => 'http://localhost:8983/solr/bolivar';
+use constant FILTERED   => './filtered';
 
 # require
 use strict;
@@ -21,9 +20,8 @@ my $query  = $ARGV[ 0 ];
 if ( ! $query ) { die "Usage: $0 <query>\n" }
 
 # initialize
-my $solr   = WebService::Solr->new( SOLR );
-my $txt    = TXT;
-my $carrel = CARREL;
+my $solr     = WebService::Solr->new( SOLR );
+my $filtered = FILTERED;
 
 # build the search options
 my %search_options = ();
@@ -31,17 +29,12 @@ $search_options{ 'facet.field' } = [ FACETFIELD ];
 $search_options{ 'facet' }       = 'true';
 
 # search
-my $response = $solr->search( "carrel:$carrel AND $query", \%search_options );
+my $response = $solr->search( "$query", \%search_options );
 
-# build a list of keyword facets
-my @facet_keyword = ();
-my $keyword_facets = &get_facets( $response->facet_counts->{ facet_fields }->{ facet_keyword } );
-foreach my $facet ( sort { $$keyword_facets{ $b } <=> $$keyword_facets{ $a } } keys %$keyword_facets ) { push @facet_keyword, $facet . ' (' . $$keyword_facets{ $facet } . ')'; }
-
-# build a list of person facets
-my @facet_person = ();
-my $person_facets = &get_facets( $response->facet_counts->{ facet_fields }->{ facet_person } );
-foreach my $facet ( sort { $$person_facets{ $b } <=> $$person_facets{ $a } } keys %$person_facets ) { push @facet_person, $facet . ' (' . $$person_facets{ $facet } . ')'; }
+# build a list of type facets
+my @facet_type = ();
+my $type_facets = &get_facets( $response->facet_counts->{ facet_fields }->{ facet_type } );
+foreach my $facet ( sort { $$type_facets{ $b } <=> $$type_facets{ $a } } keys %$type_facets ) { push @facet_type, $facet . ' (' . $$type_facets{ $facet } . ')'; }
 
 # get the total number of hits
 my $total = $response->content->{ 'response' }->{ 'numFound' };
@@ -51,37 +44,22 @@ my @hits = $response->docs;
 
 # start the output
 print "Your search found $total item(s) and " . scalar( @hits ) . " item(s) are displayed.\n\n";
-print '   person facets: ', join( '; ', @facet_person ), "\n\n";
-print '  keyword facets: ', join( '; ', @facet_keyword ), "\n\n";
+print '   type facets: ', join( '; ', @facet_type ), "\n\n";
 
 # loop through each document
 for my $doc ( $response->docs ) {
 
 	# parse
-	my $bid       = $doc->value_for(  'bid' );
-	my $words     = $doc->value_for(  'words' );
-	my $author    = $doc->value_for(  'author' );
-	my $title     = $doc->value_for(  'title' );
-	my $date      = $doc->value_for(  'date' );
-	my $sentences = $doc->value_for(  'sentences' );
-	my $flesch    = $doc->value_for(  'flesch' );
-	my $summary   = $doc->value_for(  'summary' );
-	my @keywords  = $doc->values_for( 'keyword' );
-	my @persons   = $doc->values_for( 'person' );
-	my $filename  = "$txt/$bid.txt";
+	my $filename = $doc->value_for(  'filename' );
+	my $day      = $doc->value_for(  'day' );
+	my $month    = $doc->value_for(  'month' );
+	my $year     = $doc->value_for(  'year' );
+	my $type     = $doc->value_for(  'type' );
 	
 	# output
-	print "$bid\n";
-	print "     author: $author\n";
-	print "      title: $title\n";
-	print "       date: $date\n";
-	print "     summary: $summary\n";
-	print "  keyword(s): " . join( '; ', @keywords ), "\n";
-	print "  persons(s): " . join( '; ', @persons ), "\n";
-	print "   sentences: $sentences\n";
-	print "       words: $words\n";
-	print "      flesch: $flesch\n";
-	print "    filename: $filename\n";
+	print "$filename\n";
+	print "  date: $day, $month $year\n";
+	print "  type: $type\n";
 	print "\n";
 
 }
