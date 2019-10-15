@@ -30,3 +30,4 @@ if len(date) == 1:
 	print("UPDATE documents SET day = '%s' WHERE filename is '%s';"  % (day, key))
 	print("UPDATE documents SET month = '%s' WHERE filename is '%s';"  % (month, key) )
 	print("UPDATE documents SET year = '%s' WHERE filename is '%s';"  % (year, key) )
+else: print(file)
