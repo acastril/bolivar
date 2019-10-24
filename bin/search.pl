@@ -16,8 +16,9 @@ use strict;
 use WebService::Solr;
 
 # get input; sanity check
-my $query  = $ARGV[ 0 ];
-if ( ! $query ) { die "Usage: $0 <query>\n" }
+my $output = $ARGV[ 0 ];
+my $query  = $ARGV[ 1 ];
+if ( ! $output || ! $query ) { die "Usage: $0 <keys|list> <query>\n" }
 
 # initialize
 my $solr     = WebService::Solr->new( SOLR );
@@ -42,9 +43,11 @@ my $total = $response->content->{ 'response' }->{ 'numFound' };
 # get number of hits returned
 my @hits = $response->docs;
 
-# start the output
-print "Your search found $total item(s) and " . scalar( @hits ) . " item(s) are displayed.\n\n";
-print '   type facets: ', join( '; ', @facet_type ), "\n\n";
+# start the (human-readable) output
+if ( $output eq "list" ) {
+	print "Your search found $total item(s) and " . scalar( @hits ) . " item(s) are displayed.\n\n";
+	print '   type facets: ', join( '; ', @facet_type ), "\n\n";
+}
 
 # loop through each document
 for my $doc ( $response->docs ) {
@@ -56,12 +59,23 @@ for my $doc ( $response->docs ) {
 	my $year     = $doc->value_for(  'year' );
 	my $type     = $doc->value_for(  'type' );
 	
-	# output
-	print "$filename\n";
-	print "  date: $day, $month $year\n";
-	print "  type: $type\n";
-	print "\n";
+	# output human-readable list
+	if ( $output eq "list" ) {
+	
+		# output human-readable list
+		print "$filename\n";
+		print "  date: $day, $month $year\n";
+		print "  type: $type\n";
+		print "\n";
 
+	}
+	
+	# output list of keys
+	elsif ( $output eq "keys" ) { print "$filename " }
+	
+	# error
+	else { die "Usage: $0 <keys|list> <query>\n" }
+	
 }
 
 # done
