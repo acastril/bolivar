@@ -10,6 +10,7 @@
 use constant FACETFIELD => ( 'facet_type' );
 use constant SOLR       => 'http://localhost:8983/solr/bolivar';
 use constant FILTERED   => './filtered';
+use constant ROWS       => 499;
 
 # require
 use strict;
@@ -28,6 +29,7 @@ my $filtered = FILTERED;
 my %search_options = ();
 $search_options{ 'facet.field' } = [ FACETFIELD ];
 $search_options{ 'facet' }       = 'true';
+$search_options{ 'rows' }        = ROWS;
 
 # search
 my $response = $solr->search( "$query", \%search_options );
