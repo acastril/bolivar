@@ -7,7 +7,7 @@
   <fieldType name="string" class="solr.StrField" sortMissingLast="true" docValues="true"/>
   <fieldType name="text_general" class="solr.TextField" positionIncrementGap="100" multiValued="true">
     <analyzer type="index">
-      <charFilter class="solr.MappingCharFilterFactory"  mapping="mapping-FoldToASCII.txt"/>
+       <charFilter class="solr.MappingCharFilterFactory"  mapping="mapping-FoldToASCII.txt"/>
       <tokenizer class="solr.StandardTokenizerFactory"/>
       <filter class="solr.StopFilterFactory" words="stopwordsspanish.txt" ignoreCase="true"/>
       <filter class="solr.LowerCaseFilterFactory"/>

@@ -10,7 +10,7 @@
 use constant FACETFIELD => ( 'facet_type' );
 use constant SOLR       => 'http://localhost:8983/solr/bolivar';
 use constant FILTERED   => './filtered';
-use constant ROWS       => 499;
+use constant ROWS       => 100000;
 
 # require
 use strict;
