@@ -18,7 +18,7 @@ Teniente CoronelJuan Bautista Cova a Coronel
 
 Teniente Coronel gradFrancisco Torresa TteCoronel efectivo
 
-ÍdemFlorencio Luzóna idem idem
+ÍdemFlorencio Luzona idem idem
 
 Sargento MayorMatheo Guerraa idem idem
 
@@ -34,7 +34,7 @@ CapitánJuan José Quinteroa idem idem
 
 ÍdemAntonio Ascanioa Capitán Mayor
 
-ÍdemJuan Muñosa Sargento Mayor
+ÍdemJuan Munosa Sargento Mayor
 
 TenienteFermín Gonzalesa Capitán
 
@@ -46,7 +46,7 @@ TenienteFermín Gonzalesa Capitán
 
 ÍdemFrancisco Planaa idem
 
-ÍdemJosé María Leóna idem
+ÍdemJosé María Leona idem
 
 ÍdemVicente Márqueza idem
 
@@ -56,15 +56,15 @@ TenienteFermín Gonzalesa Capitán
 
 SubtenienteCarlos Ramiresa Teniente
 
-ÍdemAntonio Lópeza idem
+ÍdemAntonio Lopeza idem
 
-ÍdemJosé María Gómeza idem
+ÍdemJosé María Gomeza idem
 
 ÍdemLuis Romeroa idem
 
 ÍdemFrancisco Garcíaa idem
 
-ÍdemJosé Félix Gómeza idem
+ÍdemJosé Félix Gomeza idem
 
 ÍdemJosé Rivasa idem
 
@@ -76,11 +76,11 @@ SubtenienteCarlos Ramiresa Teniente
 
 ídem SargentoLeocadio Acevedoa Subteniente
 
-ÍdemSimón Ariasa idem
+ÍdemSimon Ariasa idem
 
 ÍdemGil Espinoa idem
 
-ÍdemPedro Chacóna idem
+ÍdemPedro Chacona idem
 
 ÍdemJosé Zapataa Porta Estandarte
 
@@ -90,6 +90,6 @@ Cuartel general en Angostura, a 21 de Agosto de 1818 El General Jefe del Estado 
 
 C SOUBLETTE
 
-* De un impreso coetáneo: Correo del Orinoco n° 10 del 29 de agosto de 1818 La Comisión no ha visto el original También lo publica Blanco y Azpurúa Documentos para la vida pública del Libertador, tomo VI, p 462 Firma el documento el General de Brigada Carlos Soublette, Jefe del Estado Mayor General
+* De un impreso coetáneo: Correo del Orinoco n° 10 del 29 de agosto de 1818 La Comision no ha visto el original También lo publica Blanco y Azpurúa Documentos para la vida pública del Libertador, tomo VI, p 462 Firma el documento el General de Brigada Carlos Soublette, Jefe del Estado Mayor General
 
 

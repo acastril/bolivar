@@ -10,25 +10,25 @@ Presidente de Colombia, encargado del Poder Dictatorial de la República del Per
 
 Teniendo presente:
 
-I Que por el artículo 179 de la constitución política, todo militar es un ciudadano armado en defensa de la República, cuya circunstancia, así como le recomienda de una manera muy particular para las recompensas de la patria, le hace execrable a los ojos de la nación y de cada ciudadano, cuando no llena tan sagrado deber;
+I Que por el artículo 179 de la constitucion política, todo militar es un ciudadano armado en defensa de la República, cuya circunstancia, así como le recomienda de una manera muy particular para las recompensas de la patria, le hace execrable a los ojos de la nacion y de cada ciudadano, cuando no llena tan sagrado deber;
 
-II Que es opuesto al orden de la justicia, y al mismo decoro nacional el que puedan alternar con los defensores de la República todos aquellos que han abandonado su causa, quedándose entre los enemigos de ella, bien por adhesión al sistema español, bien por cualesquiera otros motivos que jamás justificarán esta infame conducta;
+II Que es opuesto al orden de la justicia, y al mismo decoro nacional el que puedan alternar con los defensores de la República todos aquellos que han abandonado su causa, quedándose entre los enemigos de ella, bien por adhesion al sistema espanol, bien por cualesquiera otros motivos que jamás justificarán esta infame conducta;
 
 Declaro:
 
-Que están borrados de la lista militar de la República los generales, jefes y oficiales que no emigraron de Lima o de otros puntos, al ocuparlos el ejército real, a consecuencia de la defección del 5 de febrero
+Que están borrados de la lista militar de la República los generales, jefes y oficiales que no emigraron de Lima o de otros puntos, al ocuparlos el ejército real, a consecuencia de la defeccion del 5 de febrero
 
-Que esta declaración es sin perjuicio de las penas a que por las ordenanzas del ejército están sujetos los traidores Imprímase, publíquese y circúlese Dado en el Cuartel General de Huánuco el 9 de julio de 1824 3° de la República
+Que esta declaracion es sin perjuicio de las penas a que por las ordenanzas del ejército están sujetos los traidores Imprímase, publíquese y circúlese Dado en el Cuartel General de Huánuco el 9 de julio de 1824 3° de la República
 
 SIMÓN BOLÍVAR
 
-Por orden de SE, José Sánchez Carrión,
+Por orden de SE, José Sánchez Carrion,
 
 Es copia
 
 [CARRIÓN]
 
-Relación de jefes y oficiales que quedan borrados de la lista militar, en virtud del supremo decreto dado en Huánuco a 9 de julio de 1824
+Relacion de jefes y oficiales que quedan borrados de la lista militar, en virtud del supremo decreto dado en Huánuco a 9 de julio de 1824
 
 A
 
@@ -56,7 +56,7 @@ Don Alejo Yesca
 
 Don Andrés María García
 
-Don Alejandro Muñoz
+Don Alejandro Munoz
 
 Don Ángel Costa
 
@@ -64,7 +64,7 @@ Don Antonio Rodríguez
 
 Don Antonio García
 
-Don Andrés Fariña
+Don Andrés Farina
 
 Don Andrés Cebrián
 
@@ -80,7 +80,7 @@ Don Antolino Bustuiza
 
 Don Antonio Bolívar
 
-Don Andrés Falcón
+Don Andrés Falcon
 
 Don Agustín Zavala
 
@@ -88,7 +88,7 @@ B
 
 Don Basilo Palma
 
-Don Bartolomé López
+Don Bartolomé Lopez
 
 C
 
@@ -104,7 +104,7 @@ Don Casto José Navajas
 
 Don Casimiro Otarola
 
-Don Crisóstomo Manrique
+Don Crisostomo Manrique
 
 Don Carlos Herdoyza
 
@@ -220,15 +220,15 @@ Don Gaspar Vázquez de Velazco
 
 Don Gregorio de Lamas
 
-Don Gerónimo Boza
+Don Geronimo Boza
 
 Don Gregorio de la Rosa
 
 Don Gabriel del Oro H
 
-Don Hipólito Fabre
+Don Hipolito Fabre
 
-Don Hipólito Carrillo
+Don Hipolito Carrillo
 
 I
 
@@ -316,9 +316,9 @@ Don José del Águila
 
 Don José García
 
-Don José María Muñiz
+Don José María Muniz
 
-Don José Bruno Oña
+Don José Bruno Ona
 
 Don José Ignacio Andrade
 
@@ -334,7 +334,7 @@ Don Jacinto Puller
 
 Don Juan Bustamante
 
-Don Jerónimo Pareja
+Don Jeronimo Pareja
 
 Don José Panizo
 
@@ -378,7 +378,7 @@ Don José Santos Vega
 
 Don Juan Guzmán de Malamoco
 
-Don Juan Negrón
+Don Juan Negron
 
 Don Juan Guarda
 
@@ -386,7 +386,7 @@ Don Julián Eguren
 
 Don José Alzamora Urzino
 
-Don José María Pajón
+Don José María Pajon
 
 Don José Arregui
 
@@ -400,11 +400,11 @@ Don José Espinosa y Noriega
 
 Don Juan Chavín
 
-Don José Cañas
+Don José Canas
 
 Don José Moreno
 
-Don José María Muñoz
+Don José María Munoz
 
 Don José Alvarado
 
@@ -416,7 +416,7 @@ Don Julián Lizardi
 
 Don Juan de Dios Marzano
 
-Don José Gregorio Oña
+Don José Gregorio Ona
 
 Don José de Escobar
 
@@ -530,7 +530,7 @@ Don Manuel Argudo
 
 Don Mariano Ayulo
 
-Don Manuel González Pavón
+Don Manuel González Pavon
 
 Don Manuel Ampuero
 
@@ -600,7 +600,7 @@ P
 
 Don Pedro Arcebes
 
-Don Pedro José Núñez
+Don Pedro José Núnez
 
 Don Pedro Arteaga
 
@@ -622,7 +622,7 @@ Don Pascual Sorzola
 
 Don Pedro Costa
 
-Don Polonio Zúñiga
+Don Polonio Zúniga
 
 Don Pablo Rojas
 
@@ -636,6 +636,6 @@ Don Pablo Farfán
 
 Don Pedro de la Puente y Querejasu
 
-* De un impreso coetáneo: Gaceta del Gobierno [del Perú], N° 33, Tomo 6, del 7 de agosto de 1824 p 161 En esta fuente sólo se encuentra la introducción de este documento y en: Memorias del General O’Leary, Tomo XXII, pp 367-371, se halla la lista de los borrados El compilador sólo toma la lista bajo el titulo: "Relación de jefes y oficiales que quedan borrados de la lista militar, en virtud del supremo decreto dado en Huánuco a 9 de julio de 1824" Dice haberlo tomado del "original" La Comisión Editora no ha visto dicho original
+* De un impreso coetáneo: Gaceta del Gobierno [del Perú], N° 33, Tomo 6, del 7 de agosto de 1824 p 161 En esta fuente solo se encuentra la introduccion de este documento y en: Memorias del General O’Leary, Tomo XXII, pp 367-371, se halla la lista de los borrados El compilador solo toma la lista bajo el titulo: "Relacion de jefes y oficiales que quedan borrados de la lista militar, en virtud del supremo decreto dado en Huánuco a 9 de julio de 1824" Dice haberlo tomado del "original" La Comision Editora no ha visto dicho original
 
 

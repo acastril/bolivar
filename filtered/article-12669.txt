@@ -6,9 +6,9 @@ DOCUMENTO 3213 OFICIO DE BOLÍVAR PARA EL GENERAL DE DIVISIÓN MANUEL SEDEÑO, F
 
 Angostura, 25 de agosto de 1818
 
-Al General de División Manuel Sedeño
+Al General de Division Manuel Sedeno
 
-Incluyo a VS un acuerdo del Tribunal de Secuestros celebrado con motivo del oficio del Ciudadano Benito López encargado por este Tribunal de los bienes pertenecientes al Estado en el Departamento de Río Negro Por él verá VS el [1] estado de abandono en que se hallan aquellos pueblos En consecuencia prevengo a VS que tome las providencias más eficaces a fin de que el Departamento de Río Negro [2] se organice bajo el mismo pie que los demás del territorio de la República y que participe de las mismas ventajas de que gozan los demás
+Incluyo a VS un acuerdo del Tribunal de Secuestros celebrado con motivo del oficio del Ciudadano Benito Lopez encargado por este Tribunal de los bienes pertenecientes al Estado en el Departamento de Río Negro Por él verá VS el [1] estado de abandono en que se hallan aquellos pueblos En consecuencia prevengo a VS que tome las providencias más eficaces a fin de que el Departamento de Río Negro [2] se organice bajo el mismo pie que los demás del territorio de la República y que participe de las mismas ventajas de que gozan los demás
 
 Dios, etc
 
@@ -18,7 +18,7 @@ Dios, etc
 
 Notas
 
-[1] Interlineado "el" donde se testó "que"
+[1] Interlineado "el" donde se testo "que"
 
 [2] Uno de los Cantones de la Provincia de Guayana; su capital es San Fernando de Atabapo
 

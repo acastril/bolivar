@@ -4,7 +4,7 @@ Portada del sitio > 26) Período (01MAR AL 30ABR 1824) Correspondencia Oficial >
 
 DOCUMENTO 9225 ORGANIZACIÓN Y ESTADO DE FUERZA DEL CUERPO DE ARTILLERÍA DEL PERÚ, FIRMADO POR EL CORONEL RAFAEL JIMENA Y JOSÉ D ESPINAR FECHADO EN TRUJILLO EL 29 DE MARZO DE 1824*
 
-Organización del cuerpo de artillería del Perú, con arreglo a su fuerza y necesidades actuales
+Organizacion del cuerpo de artillería del Perú, con arreglo a su fuerza y necesidades actuales
 
 Comandancia General
 
@@ -24,7 +24,7 @@ Capellán: Dr Don José Delgado
 
 Cirujano: Don José Isidoro Alcedo
 
-1a Compañía
+1a Companía
 
 Capitán: Don Francisco Méndez
 
@@ -48,7 +48,7 @@ Tambores y pitos: 5
 
 Total de tropas : 100
 
-Compañía de parque
+Companía de parque
 
 Teniente: Don José Rodríguez
 
@@ -96,7 +96,7 @@ En el estado mayor del ejército del Perú: Sargento mayor Don José María Guer
 
 Nota:
 
-Estando la fuerza del cuerpo reducida en tropa al número de 149 hombres de los cuales 18 existen con el señor general Antonio José de Sucre, bajo el mando del capitán Don Francisco Méndez; 13 en Cajamarca con un oficial y dos piezas; y el resto en esta ciudad, se han elegido ciento para la formación de una compañía que maneje seis piezas de campaña y el parque expedicionario Los 49 restantes son morenos y tanto por lo poco que resiste su complexión al frío, como por carecer del arma que les es peculiar, y ser útiles para las labores de parque y maestranza en este depósito general deben formar la compañía del parque propia a una brigada Trujillo, marzo 29 de 1824 - Rafael Jimena
+Estando la fuerza del cuerpo reducida en tropa al número de 149 hombres de los cuales 18 existen con el senor general Antonio José de Sucre, bajo el mando del capitán Don Francisco Méndez; 13 en Cajamarca con un oficial y dos piezas; y el resto en esta ciudad, se han elegido ciento para la formacion de una companía que maneje seis piezas de campana y el parque expedicionario Los 49 restantes son morenos y tanto por lo poco que resiste su complexion al frío, como por carecer del arma que les es peculiar, y ser útiles para las labores de parque y maestranza en este deposito general deben formar la companía del parque propia a una brigada Trujillo, marzo 29 de 1824 - Rafael Jimena
 
 Es copia
 
@@ -106,6 +106,6 @@ ESPINAR
 
 Notas
 
-[1] Mixtos: En artillería, cualquiera de las mezclas inflamables que se usan en la guerra para los artificios incendiarios, explosivos o de iluminación
+[1] Mixtos: En artillería, cualquiera de las mezclas inflamables que se usan en la guerra para los artificios incendiarios, explosivos o de iluminacion
 
 

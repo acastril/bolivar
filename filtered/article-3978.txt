@@ -6,7 +6,7 @@ DOCUMENTO 2309 COMUNICACIÓN DE BOLÍVAR AL GENERAL RAFAEL URDANETA, FECHADA EN 
 
 Angostura, 6 de Noviembre de 1817 Al General Urdaneta
 
-El Comisionado general de las Misiones [1] ha recibido órdenes de remitir a los almacenes de San Joaquín [2] ochenta quintales de jabón, y para estas horas deben estar ya en ellos Esta [3] cantidad, y cuanta haya en la línea, la remitirá VS [4] a esta plaza a la mayor brevedad
+El Comisionado general de las Misiones [1] ha recibido ordenes de remitir a los almacenes de San Joaquín [2] ochenta quintales de jabon, y para estas horas deben estar ya en ellos Esta [3] cantidad, y cuanta haya en la línea, la remitirá VS [4] a esta plaza a la mayor brevedad
 
 Dios guarde, etc
 
@@ -20,7 +20,7 @@ Notas
 
 [2] San Joaquín Puerto en el río Caroní, cerca de los primeros saltos, el Estado Bolívar
 
-[3] Se había escrito primeramente: "este número" Se modificó la primera palabra por "ésta" y se testó "número"
+[3] Se había escrito primeramente: "este número" Se modifico la primera palabra por "ésta" y se testo "número"
 
 [4] Interlineado: "VS"
 

@@ -6,9 +6,9 @@ DOCUMENTO 2084 : OFICIO DE BOLÍVAR AL INTENDENTE FRANCISCO A ZEA, FECHADO EN AN
 
 Angostura, 26 de Septiembre de 1817
 
-Al [1] Señor Intendente
+Al [1] Senor Intendente
 
-Con fecha de 24 del presente previne al Comisionado general de las Misiones [2] remitiese a disposición de SE el Almirante [3], al puerto de Las Tablas, ciento diez mulas mías Cargelas VS a la cuenta de dicho señor Almirante, percibiendo el documento competente
+Con fecha de 24 del presente previne al Comisionado general de las Misiones [2] remitiese a disposicion de SE el Almirante [3], al puerto de Las Tablas, ciento diez mulas mías Cargelas VS a la cuenta de dicho senor Almirante, percibiendo el documento competente
 
 Dios guarde a VS, etc
 
@@ -22,6 +22,6 @@ Notas
 
 [2] Lo era el Pbro y Coronel José Félix Blanco
 
-[3] El Almirante Luis Brión
+[3] El Almirante Luis Brion
 
 

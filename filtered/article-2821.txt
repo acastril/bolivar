@@ -8,7 +8,7 @@ Angostura, 26 de Septiembre de 1817
 
 Al Ciudadano Corregidor
 
-Los estragos que    [1] medio [2] es de  este mal [3] quizás    [po]licía [4] porción de cadáveres se en  insepultados unos otros en [5]  exhalando una gran fetidez [6]    y calles de la ciudad [7] se ven [8]    inmundicias [9] que debían bastar para [10] causar la epidemia [11] en el lugar más sano En consecuencia prevengo a V que [12] desde hoy tome cuantas providencias le dicte su interés por el bien público, haciendo que todos estos habitantes [13] limpien sus pertenencias disponiendo se sepulten todos los cadáveres [14] y que los que falleciesen sean enterrados a bastante profundidad; y que en fin ponga todo el esmero debido en la policía, limpieza y aseo de la ciudad [15] dentro y fuera de sus muros
+Los estragos que    [1] medio [2] es de  este mal [3] quizás    [po]licía [4] porcion de cadáveres se en  insepultados unos otros en [5]  exhalando una gran fetidez [6]    y calles de la ciudad [7] se ven [8]    inmundicias [9] que debían bastar para [10] causar la epidemia [11] en el lugar más sano En consecuencia prevengo a V que [12] desde hoy tome cuantas providencias le dicte su interés por el bien público, haciendo que todos estos habitantes [13] limpien sus pertenencias disponiendo se sepulten todos los cadáveres [14] y que los que falleciesen sean enterrados a bastante profundidad; y que en fin ponga todo el esmero debido en la policía, limpieza y aseo de la ciudad [15] dentro y fuera de sus muros
 
 BOLÍVAR
 
@@ -20,9 +20,9 @@ Notas
 
 [2] Testado: "se"
 
-[3] Testado: "creo que", y se interlineó "quizás"
+[3] Testado: "creo que", y se interlineo "quizás"
 
-[4] Testado: "en la pobla[ción]"
+[4] Testado: "en la pobla[cion]"
 
 [5] Testado: "desenterrados unos y otros"
 
@@ -40,9 +40,9 @@ mundas y fétidas"
 
 [11] Testado: "que notamos", e interlineado "en el lugar más sano"
 
-[12] Testado: "a la mayor brevedad ordene V que a" Se interlineó un largo párrafo
+[12] Testado: "a la mayor brevedad ordene V que a" Se interlineo un largo párrafo
 
-[13] Testado: "que periódicamente"
+[13] Testado: "que periodicamente"
 
 [14] Testado: "que se hallen en las inmediaciones teniendo el mayor cuidado en que sean bien sepultados donde corresponda"
 

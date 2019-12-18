@@ -8,9 +8,9 @@ Angostura, 21 de Noviembre de 1817 7°
 
 Al Almirante
 
-Incluyo a VE el decreto [1] de creación [2] del Consejo de Gobierno [3], instalado hoy
+Incluyo a VE el decreto [1] de creacion [2] del Consejo de Gobierno [3], instalado hoy
 
-Dios guarde a VE muchos años
+Dios guarde a VE muchos anos
 
 [BOLÍVAR]
 
@@ -20,7 +20,7 @@ Notas
 
 [1] Véase Doc N° 2303
 
-[2] Se escribió primeramente: "de un" Se testó "un" y se corrigió "de" por "del"
+[2] Se escribio primeramente: "de un" Se testo "un" y se corrigio "de" por "del"
 
 [3] Testado: "que he tenido a bien expedir"
 

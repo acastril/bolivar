@@ -8,13 +8,13 @@ Angostura, 12 de diciembre de 1817
 
 Al General Arismendi
 
-El 2 del presente sufrió el General Zaraza en el sitio de la Hogaza [1] un pequeño revés Este General, que mandaba un cuerpo de observación con orden expresa de no comprometer ninguna acción y de incorporarse al ejército grande que yo mandaba en persona, por una lentitud inexcusable fue atacado por un cuerpo de 1500 hombres y [2] frustró mi plan de operaciones En San Diego de Cabrutica [3] recibí esta noticia y en el acto resolví contramarchar a esta ciudad con mi ejército, pues aunque los españoles sufrieron una pérdida muy [4] superior a la nuestra, y retrogradaron seguidamente a Calabozo sin perseguir nuestras tropas, concebí el proyecto de reunir la mayor parte de las fuerzas disponibles y [5] con un cuerpo de 6000 hombres marchar sobre el enemigo, atacarlo y destruirlo de una vez dondequiera que se encuentre Con este objeto he publicado la ley [6] que incluyo; menos porque las circunstancias sean de las que exigen medidas de esta clase, que por terminar para siempre la guerra que desoía a Venezuela
+El 2 del presente sufrio el General Zaraza en el sitio de la Hogaza [1] un pequeno revés Este General, que mandaba un cuerpo de observacion con orden expresa de no comprometer ninguna accion y de incorporarse al ejército grande que yo mandaba en persona, por una lentitud inexcusable fue atacado por un cuerpo de 1500 hombres y [2] frustro mi plan de operaciones En San Diego de Cabrutica [3] recibí esta noticia y en el acto resolví contramarchar a esta ciudad con mi ejército, pues aunque los espanoles sufrieron una pérdida muy [4] superior a la nuestra, y retrogradaron seguidamente a Calabozo sin perseguir nuestras tropas, concebí el proyecto de reunir la mayor parte de las fuerzas disponibles y [5] con un cuerpo de 6000 hombres marchar sobre el enemigo, atacarlo y destruirlo de una vez dondequiera que se encuentre Con este objeto he publicado la ley [6] que incluyo; menos porque las circunstancias sean de las que exigen medidas de esta clase, que por terminar para siempre la guerra que desoía a Venezuela
 
-El General Morillo, agotando sus recursos y desguarneciendo todos los puntos que debería cubrir, puede reunir 2000 hombres que concentra en Calabozo, que ha destinado para su Cuartel General, y yo puedo fácilmente oponerle una fuerza triple La reunión de éstas se hace con toda actividad y ya hay cerca de 4000 hombres
+El General Morillo, agotando sus recursos y desguarneciendo todos los puntos que debería cubrir, puede reunir 2000 hombres que concentra en Calabozo, que ha destinado para su Cuartel General, y yo puedo fácilmente oponerle una fuerza triple La reunion de éstas se hace con toda actividad y ya hay cerca de 4000 hombres
 
-El General Zaraza ocupa las mismas posiciones; espía y observa los movimientos del enemigo, recluta hombres y caballos, y debe permanecer en observación hasta mi marcha La ventaja obtenida por el enemigo sólo ha retardado nuestras operaciones por algunos días
+El General Zaraza ocupa las mismas posiciones; espía y observa los movimientos del enemigo, recluta hombres y caballos, y debe permanecer en observacion hasta mi marcha La ventaja obtenida por el enemigo solo ha retardado nuestras operaciones por algunos días
 
-De resto todo va bien; no hay por qué temer, y espero que la República se salvará para siempre en una acción
+De resto todo va bien; no hay por qué temer, y espero que la República se salvará para siempre en una accion
 
 Particípeme VE cuanto sepa; y déme noticias circunstanciadas de esa Isla
 
@@ -28,7 +28,7 @@ Notas
 
 [1] La Hogaza Véase la nota 2 del Doc N° 2460
 
-[2] Testado: "sufrió"
+[2] Testado: "sufrio"
 
 [3] San Diego de Cabrutica Véase la nota 2 del Doc N° 2369
 

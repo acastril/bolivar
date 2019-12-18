@@ -6,9 +6,9 @@ DOCUMENTO 2908 OFICIO DE BOLÍVAR PARA LOS MINISTROS DE LAS CAJAS NACIONALES, FE
 
 Angostura, 26 de junio de 1818
 
-A los Señores Ministros de las Cajas nacionales de esta plaza
+A los Senores Ministros de las Cajas nacionales de esta plaza
 
-Para abonar los sueldos que asigné al Regimiento de Húsares ingleses [1] por mi orden de 18 del presente [2] son suficientes las listas [3] de revista de cada mes, firmadas por el Jefe del Estado Mayor General y el Comandante del cuerpo Lo mismo [4] debe entenderse con el sueldo señalado al impresor del Gobierno, de quien basta su recibo para que sea abonado por Uds
+Para abonar los sueldos que asigné al Regimiento de Húsares ingleses [1] por mi orden de 18 del presente [2] son suficientes las listas [3] de revista de cada mes, firmadas por el Jefe del Estado Mayor General y el Comandante del cuerpo Lo mismo [4] debe entenderse con el sueldo senalado al impresor del Gobierno, de quien basta su recibo para que sea abonado por Uds
 
 Dios, etc
 
@@ -20,7 +20,7 @@ Notas
 
 [1] Testado: "conforme previne a V S"
 
-[2] Testado: "ni es necesario que tenga el requisito de que tenga el páguese por mí, bastando sólo la lista"
+[2] Testado: "ni es necesario que tenga el requisito de que tenga el páguese por mí, bastando solo la lista"
 
 [3] Interlineado: "son suficientes las listas"
 

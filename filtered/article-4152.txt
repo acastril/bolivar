@@ -18,7 +18,7 @@ Notas
 
 [1] Testado: "para dentro de" Está interlineada la frase: "del ganado que hay en San Miguel estén pronto de hoy en ocho"
 
-[2] San Miguel Debe referirse al pueblo de Misión, llamado San Miguel, cerca de Upata Había otro pueblo de Misión, denominado también San Miguel del Palmar, a orillas del Orinoco, aguas arriba de los castillos de Guayana
+[2] San Miguel Debe referirse al pueblo de Mision, llamado San Miguel, cerca de Upata Había otro pueblo de Mision, denominado también San Miguel del Palmar, a orillas del Orinoco, aguas arriba de los castillos de Guayana
 
 [3] Testado: "estén prontos"
 
@@ -30,6 +30,6 @@ Notas
 
 [7] El pronombre ’éste" no se refiere aquí al bergantín, sino obviamente al ganado existente en San Miguel
 
-[8] Caruachi Es el pueblo de Misión de San Ramón de Caruachi, situado en la margen derecha del río Caroní, a unos 30 kilómetros en línea recta antes de su desembocadura en el Orinoco
+[8] Caruachi Es el pueblo de Mision de San Ramon de Caruachi, situado en la margen derecha del río Caroní, a unos 30 kilometros en línea recta antes de su desembocadura en el Orinoco
 
 

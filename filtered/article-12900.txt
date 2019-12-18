@@ -6,9 +6,9 @@ DOCUMENTO 3042 OFICIO DE BOLÍVAR PARA EL GENERAL DE DIVISIÓN MANUEL SEDEÑO, F
 
 Angostura, 20 de julio de 1818
 
-Al General Sedeño
+Al General Sedeno
 
-Con motivo de haber salido de este puerto las fuerzas sutiles [1] todos los marineros que había en este apostadero se embarcaron en ellas [2]; por lo que ha quedado absolutamente sin un hombre [3] de esta clase y estando seguro [4] de que en toda la costa de la derecha [5] del río, es decir desde Calcara hasta esta ciudad, hay multitud de éstos prevengo [6] a VS que inmediatamente dé las órdenes necesarias a fin de que [7] vengan con urgencia, todos los que puedan reclutarse, inteligentes o útiles, para nuestras embarcaciones sutiles
+Con motivo de haber salido de este puerto las fuerzas sutiles [1] todos los marineros que había en este apostadero se embarcaron en ellas [2]; por lo que ha quedado absolutamente sin un hombre [3] de esta clase y estando seguro [4] de que en toda la costa de la derecha [5] del río, es decir desde Calcara hasta esta ciudad, hay multitud de éstos prevengo [6] a VS que inmediatamente dé las ordenes necesarias a fin de que [7] vengan con urgencia, todos los que puedan reclutarse, inteligentes o útiles, para nuestras embarcaciones sutiles
 
 Dios, etc
 
@@ -20,15 +20,15 @@ Notas
 
 [1] Interlineado y testado "para su servicio"
 
-[2] Interlineado "se embarcaron en ellas" donde se testó "ha quedado sin uno solo"
+[2] Interlineado "se embarcaron en ellas" donde se testo "ha quedado sin uno solo"
 
 [3] Testado "para"
 
-[4] Interlineado "clase y estando seguro" donde se testó "Plaza; y informado"
+[4] Interlineado "clase y estando seguro" donde se testo "Plaza; y informado"
 
-[5] Interlineado "derecho" donde se testó "izquierda"
+[5] Interlineado "derecho" donde se testo "izquierda"
 
-[6] Interlineado "estos prevengo" donde se testó "marineros, he
+[6] Interlineado "estos prevengo" donde se testo "marineros, he
 
 tenido determinado comunicarlo"
 

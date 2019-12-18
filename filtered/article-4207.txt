@@ -10,11 +10,11 @@ SEÑOR CORONEL TOMAS C MOSQUERA
 
 Mi Querido Mosquera:
 
-He recibido la apreciable comunicación de Vd del 28 de enero en que me participa haber aparecido en Guayaquil mis libros, y lo celebro tan sólo porque ellos distraerán a Vd en sus ratos de descanso; sírvase Vd aceptarlos como un recuerdo de mi parte
+He recibido la apreciable comunicacion de Vd del 28 de enero en que me participa haber aparecido en Guayaquil mis libros, y lo celebro tan solo porque ellos distraerán a Vd en sus ratos de descanso; sírvase Vd aceptarlos como un recuerdo de mi parte
 
-Quedo informado de todo lo que Vd me dice con relación a los diputados de esa ciudad, como igualmente de la recomendación que me hace sobre el asunto de Arboleda el cual tendré muy presente y haré por él todo lo que pueda No deberá Vd sorprenderse al saber que he tomado la resolución de marchar a Venezuela el 7 del mes que entra: motivos muy poderosos me llaman a aquel país, donde necesitan de mi presencia para restablecer el equilibrio del orden que comenzaba ya a romperse En Cumaná existe una fuerte facción; los godos por una parte, la enfermedad de Páez, los disturbios de Guayana en contra del padre Blanco, la situación, en fin, de toda Venezuela son motivos poderosos que me aconsejan esta determinación a fin de salvar aquel país Esto no quiere decir que yo deje el ejecutivo como lo he hecho antes, y que no debí hacer, sino que conservaré esta autoridad, y me reservaré el nombramiento de los magistrados y jefes militares, quedando en esta capital una administración general para el despacho de los negocios corrientes Urdaneta quedará en la secretaria de guerra
+Quedo informado de todo lo que Vd me dice con relacion a los diputados de esa ciudad, como igualmente de la recomendacion que me hace sobre el asunto de Arboleda el cual tendré muy presente y haré por él todo lo que pueda No deberá Vd sorprenderse al saber que he tomado la resolucion de marchar a Venezuela el 7 del mes que entra: motivos muy poderosos me llaman a aquel país, donde necesitan de mi presencia para restablecer el equilibrio del orden que comenzaba ya a romperse En Cumaná existe una fuerte faccion; los godos por una parte, la enfermedad de Páez, los disturbios de Guayana en contra del padre Blanco, la situacion, en fin, de toda Venezuela son motivos poderosos que me aconsejan esta determinacion a fin de salvar aquel país Esto no quiere decir que yo deje el ejecutivo como lo he hecho antes, y que no debí hacer, sino que conservaré esta autoridad, y me reservaré el nombramiento de los magistrados y jefes militares, quedando en esta capital una administracion general para el despacho de los negocios corrientes Urdaneta quedará en la secretaria de guerra
 
-Mi regreso será dentro de seis meses a más tardar mientras la convención habrá decidido de sus deliberaciones Marcho con la plena seguridad de que aquel cuerpo a pesar de las intrigas, se compone en su mayoría de amigos nuestros y de la unidad Los diputados del Sur son excelentes y los de Venezuela magníficos
+Mi regreso será dentro de seis meses a más tardar mientras la convencion habrá decidido de sus deliberaciones Marcho con la plena seguridad de que aquel cuerpo a pesar de las intrigas, se compone en su mayoría de amigos nuestros y de la unidad Los diputados del Sur son excelentes y los de Venezuela magníficos
 
 Vd puede escribirme a Caracas directamente
 
@@ -28,11 +28,11 @@ BOLÍVAR
 
 P D—El general Urdaneta, a quien he encargado de la Secretaría de Guerra, se dirigirá a Vd en cualquier negocio de interés o privado, pues él debe comunicarme las noticias que Vd le dé
 
-Mi espada de campaña que tiene Vd allá fue la que tuve en el Perú; consérvela Vd igualmente que el servicio y los libros como un recuerdo mío
+Mi espada de campana que tiene Vd allá fue la que tuve en el Perú; consérvela Vd igualmente que el servicio y los libros como un recuerdo mío
 
 * El original pertenece, a D Bolívar Mosquera "El Tiempo", Bogotá, 7 de octubre de 1928
 
-Lista de los libros de S E el Libertador, que conduce el capitán Emigdio Briceño, remitidos por el coronel Tomás Cipriano Mosquera
+Lista de los libros de S E el Libertador, que conduce el capitán Emigdio Briceno, remitidos por el coronel Tomás Cipriano Mosquera
 
 Obras Completas
 
@@ -68,15 +68,15 @@ L’Odyssée d’Homére
 
 Fétes et courtisanes de la Crece
 
-Llórente
+Llorente
 
 Cours politique et diplomatique de Bonaparte
 
-Oeuvres de Napoleón
+Oeuvres de Napoleon
 
-Mémoires de Napoleón
+Mémoires de Napoleon
 
-Higtoire de Napoleón
+Higtoire de Napoleon
 
 Higtoire Du Brasil
 
@@ -118,9 +118,9 @@ Comentarios de César
 
 M Mahon S Cardeninos
 
-Montholou: Mémoires de Napoleón
+Montholou: Mémoires de Napoleon
 
-Jugement impartial sur Napoleón
+Jugement impartial sur Napoleon
 
 Influence des Gouvcrnements
 
@@ -128,9 +128,9 @@ Code of Laws of the Republic of Colombia
 
 The Federalista
 
-Colón, Juzgados militares
+Colon, Juzgados militares
 
-Principios de Fortificación
+Principios de Fortificacion
 
 Ordenanza naval
 
@@ -144,7 +144,7 @@ Tasso
 
 Campagnos d’Italie
 
-Mémoires du Barón Fain
+Mémoires du Baron Fain
 
 Encyclopédie des enfants
 
@@ -170,7 +170,7 @@ Voyage to the South Atlantic
 
 La colonne de la Grande Armée
 
-Colonne sur la Place Vendóme
+Colonne sur la Place Vendome
 
 Historie do Polibe
 
@@ -196,7 +196,7 @@ Vie de Washington
 
 Espíritu del Derecho
 
-Tratado de Costramentación
+Tratado de Costramentacion
 
 Les Cent Jours Constant
 
@@ -224,7 +224,7 @@ Viaje de Aanacarsis
 
 Commentaires de César
 
-La Noavelle Espagne Voyage au Nouveau Continent Exposición de Don José
+La Noavelle Espagne Voyage au Nouveau Continent Exposicion de Don José
 
 de la Riva Aguero
 

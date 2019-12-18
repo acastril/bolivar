@@ -4,15 +4,15 @@ Portada del sitio > 3) Período (14OCT 1795 AL 05AGO 1813) Correspondencia Ofici
 
 DOCUMENTO 183 OFICIO DE BOLÍVAR DIRIGIDO AL PRESIDENTE ENCARGADO DEL PODER EJECUTIVO DE LA UNIÓN, FECHADO EN CÚCUTA EL 9 DE MAYO DE 1813, CON INFORMACIÓN SOBRE EL ARMAMENTO DE QUE DISPONÍA EL EJÉRCITO*
 
-Excmo señor Presidente Encargado del Poder Ejecutivo de la Unión
+Excmo senor Presidente Encargado del Poder Ejecutivo de la Union
 
-Excmo señor:
+Excmo senor:
 
-Cumpliendo con lo que VE se sirve prescribirme en oficio de 28 de abril, relativo al estado de fuerza de este ejército en armas, artillería y municiones, comprensivo de lo más que sobre cada uno de estos artículos hubiesen agregado las partidas conducidas por el Brigadier Ricaurte [1] y Coronel Ribas [2] y se hayan aprehendido al enemigo [3] en La Grita o en Mérida; sobre que debía formar uno más completo con la totalidad de cuanto tenemos en este género, y también del número de hombres y sus diversas armas; acompaño a VE el estado general y extenso de todos los ramos y artículos de la fuerza del ejército, hasta el del presente mes en que ha sido formado; no habiendo, sin embargo, en él, número exacto de las armas y demás del Comandante Briceño [4] por la razón que en el mismo estado se expresan los pertrechos y piezas de artillería del Estado de Cundinamarca, porque aun en esta fecha no han llegado a este Cuartel General; de ellos se dará un estado por separado, luego que se reciba [5]
+Cumpliendo con lo que VE se sirve prescribirme en oficio de 28 de abril, relativo al estado de fuerza de este ejército en armas, artillería y municiones, comprensivo de lo más que sobre cada uno de estos artículos hubiesen agregado las partidas conducidas por el Brigadier Ricaurte [1] y Coronel Ribas [2] y se hayan aprehendido al enemigo [3] en La Grita o en Mérida; sobre que debía formar uno más completo con la totalidad de cuanto tenemos en este género, y también del número de hombres y sus diversas armas; acompano a VE el estado general y extenso de todos los ramos y artículos de la fuerza del ejército, hasta el del presente mes en que ha sido formado; no habiendo, sin embargo, en él, número exacto de las armas y demás del Comandante Briceno [4] por la razon que en el mismo estado se expresan los pertrechos y piezas de artillería del Estado de Cundinamarca, porque aun en esta fecha no han llegado a este Cuartel General; de ellos se dará un estado por separado, luego que se reciba [5]
 
-Luego que haya marchado el parque de artillería formaremos una relación de las piezas y pertrechos que quedan en esta plaza al mando del Capitán Lino Ramírez, al mando de la División de Cartagena, cuyas tropas quedan de guarnición aquí porque son de Milicias Cartagena puede reclamarlas en caso de necesidad y quizás sería peligroso internarlas, habiéndolas ofrecido yo no traerlas más que hasta aquí Después me extenderé sobre esta materia con más detalles [6]
+Luego que haya marchado el parque de artillería formaremos una relacion de las piezas y pertrechos que quedan en esta plaza al mando del Capitán Lino Ramírez, al mando de la Division de Cartagena, cuyas tropas quedan de guarnicion aquí porque son de Milicias Cartagena puede reclamarlas en caso de necesidad y quizás sería peligroso internarlas, habiéndolas ofrecido yo no traerlas más que hasta aquí Después me extenderé sobre esta materia con más detalles [6]
 
-Dios guarde a VE muchos años
+Dios guarde a VE muchos anos
 
 Cuartel General de San José de Cúcuta, 9 de mayo de 1813 3°
 
@@ -22,7 +22,7 @@ SIMÓN BOLÍVAR
 
 ANEXO
 
-Estado que manifiesta las armas, piezas de artillería, pertrechos y demás municiones y útiles que tiene el Ejército Unido, al mando del Brigadier, ciudadano Simón Bolívar, con expresión de lo que pertenece a cada Provincia, de lo tomado al enemigo, y de lo que trajo el Coronel, ciudadano Antonio Briceño
+Estado que manifiesta las armas, piezas de artillería, pertrechos y demás municiones y útiles que tiene el Ejército Unido, al mando del Brigadier, ciudadano Simon Bolívar, con expresion de lo que pertenece a cada Provincia, de lo tomado al enemigo, y de lo que trajo el Coronel, ciudadano Antonio Briceno
 
 Piezas de artillería
 
@@ -32,13 +32,13 @@ Obuses dea: 6 pulgadas
 
 Obuses de a: 3 pulgadas
 
-Cañones de : calibre de a 4
+Canones de : calibre de a 4
 
-Cañones de: a 3
+Canones de: a 3
 
-Cañones de a 1/2libra
+Canones de a 1/2libra
 
-De la Unión
+De la Union
 
 De Cartagena
 
@@ -62,7 +62,7 @@ De Pamplona
 
 1
 
-Del ciudadano Antonio Briceño
+Del ciudadano Antonio Briceno
 
 Tomado al enemigo
 
@@ -102,7 +102,7 @@ Granadas
 
 Reales
 
-De la Unión
+De la Union
 
 60
 
@@ -132,7 +132,7 @@ De Pamplona
 
 Del ciudadano
 
-Antonio Briceño
+Antonio Briceno
 
 Tomado al enemigo 26
 
@@ -158,7 +158,7 @@ Metralla de
 
 a 1/2
 
-De la Unión
+De la Union
 
 19
 
@@ -180,7 +180,7 @@ De Pamplona
 
 Del ciudadano
 
-Antonio Briceño 
+Antonio Briceno 
 
 —
 
@@ -194,7 +194,7 @@ Tomado al enemigo
 
 Total
 
-Cartuchos de pólvora para id
+Cartuchos de polvora para id
 
 Provincias a que pertenecen los artículos dichos
 
@@ -208,7 +208,7 @@ De obús de
 
 a 1/2
 
-De la Unión
+De la Union
 
 50
 
@@ -228,7 +228,7 @@ De Pamplona
 
 100
 
-Del ciudadano Antonio Briceño   Tomado al enemigo 
+Del ciudadano Antonio Briceno   Tomado al enemigo 
 
 —
 
@@ -250,7 +250,7 @@ Provincias a que pertenecen los artículos dichos
 
 Fusiles útiles
 
-Fusiles de ítil composición
+Fusiles de ítil composicion
 
 Fusiles Escope- Escope- Sa- inútiles tas tas bles
 
@@ -258,7 +258,7 @@ Fusiles Escope- Escope- Sa- inútiles tas tas bles
 
 Lanzas
 
-De la Unión
+De la Union
 
 230
 
@@ -286,7 +286,7 @@ De Pamplona
 
 Del ciudadano
 
-Antonio Briceño  
+Antonio Briceno  
 
 128
 
@@ -324,7 +324,7 @@ de de das rras picos
 
 fusil Pistola
 
-De la Unión 80 2 8 2 6 3
+De la Union 80 2 8 2 6 3
 
 De Cartagena 6920 400 _ _ _ _
 
@@ -332,13 +332,13 @@ De Pamplona………… 700 100 2 2 6
 
 Del ciudadano
 
-Antonio Briceño
+Antonio Briceno
 
 Tomado al enemigo  3000 36 13 9 15 12
 
 Total 10700 500 40 23 11 21 21
 
-Pólvora
+Polvora
 
 Provincias a que
 
@@ -346,7 +346,7 @@ pertenecen los Cartuchos En grano
 
 artículos dichos con bala Quintales Libras
 
-De la Unión 6420
+De la Union 6420
 
 De Cartagena 128980
 
@@ -354,7 +354,7 @@ De Pamplona 200
 
 Del ciudadano
 
-Antonio Briceño  2
+Antonio Briceno  2
 
 Tomado al enemigo  4500 1 15
 
@@ -364,7 +364,7 @@ Tiendas y toldos
 
 Provincias a que pertenecen los artículos dichos
 
-De la Unión 13
+De la Union 13
 
 De Cartagena 40
 
@@ -372,7 +372,7 @@ De Pamplona 25
 
 Del ciudadano
 
-Antonio Briceño
+Antonio Briceno
 
 Tomado al enemigo  14
 
@@ -390,7 +390,7 @@ En Pasta
 
 Quintales Libras
 
-De la Unión
+De la Union
 
 De Cartagena
 
@@ -398,7 +398,7 @@ De Pamplona
 
 Del ciudadano
 
-Antonio Briceño
+Antonio Briceno
 
 8
 
@@ -414,7 +414,7 @@ Total
 
 9 78
 
-Nota — Los efectos perteneciente al Coronel, ciudadano Antonio Nicolás Briceño pasaron al poder del Coronel, ciudadano Manuel del Castillo, por lo cual no se puede dar una noticia exacta de ellos
+Nota — Los efectos perteneciente al Coronel, ciudadano Antonio Nicolás Briceno pasaron al poder del Coronel, ciudadano Manuel del Castillo, por lo cual no se puede dar una noticia exacta de ellos
 
 Otra — No se expresan los pertrechos y piezas de artillería del Estado de Cundinamarca, porque no han llegado todavía a este Cuartel General
 
@@ -424,7 +424,7 @@ JOSÉ TEJADA VB
 
 SIMÓN BOLÍVAR
 
-* Archivo del Libertador, tomo 21, folio 150 Del original, escrito enteramente de mano de persona no identificada, salvo la antefirma, firma y rúbrica que son autógrafas de Bolívar En el libro Copiador (Archivo del Libertador, correspondencia oficial, f° 33) escrito de letra de un amanuense de la Secretaría, el texto parece más correcto que el original en el que se escurrieron algunos errores El destinatario era Camilo Torres
+* Archivo del Libertador, tomo 21, folio 150 Del original, escrito enteramente de mano de persona no identificada, salvo la antefirma, firma y rúbrica que son autografas de Bolívar En el libro Copiador (Archivo del Libertador, correspondencia oficial, f° 33) escrito de letra de un amanuense de la Secretaría, el texto parece más correcto que el original en el que se escurrieron algunos errores El destinatario era Camilo Torres
 
 Notas
 
@@ -432,12 +432,12 @@ Notas
 
 [2] José Félix Ribas Véase la nota 3 del doc N° 127
 
-[3] Por lapsus se repitió aquí la expresión "al enemigo"
+[3] Por lapsus se repitio aquí la expresion "al enemigo"
 
-[4] Antonio Nicolás Briceño Véase la nota principal del doc N° 34, en la correspondencia personal
+[4] Antonio Nicolás Briceno Véase la nota principal del doc N° 34, en la correspondencia personal
 
-[5] Reproducimos exactamente el texto del original, que se diría, sin embargo, haber sido escrito con poco cuidado por el amanuense En el Copiador, se da una versión que parece ser más correcta La siguiente: " no habiendo sin embargo en él, el número exacto de las armas y demás del Comandante Briceño, por la razón que en el mismo estado se expresa; ni los pertrechos y piezas de artillería del estado de Cundinamarca, porque aún en esta fecha no han llegado a este Cuartel General De ellos se dará un estado por separado luego que se reciban"
+[5] Reproducimos exactamente el texto del original, que se diría, sin embargo, haber sido escrito con poco cuidado por el amanuense En el Copiador, se da una version que parece ser más correcta La siguiente: " no habiendo sin embargo en él, el número exacto de las armas y demás del Comandante Briceno, por la razon que en el mismo estado se expresa; ni los pertrechos y piezas de artillería del estado de Cundinamarca, porque aún en esta fecha no han llegado a este Cuartel General De ellos se dará un estado por separado luego que se reciban"
 
-[6] El estado de armas y pertrechos a que se refiere el texto de este oficio se reproduce como anexo El documento original se halla en el Archivo del Libertador, , fos 151-152 Está todo escrito de mano de José Tejada, salvo el visto bueno, y la firma y rúbrica de Bolívar, que son autógrafos de éste
+[6] El estado de armas y pertrechos a que se refiere el texto de este oficio se reproduce como anexo El documento original se halla en el Archivo del Libertador, , fos 151-152 Está todo escrito de mano de José Tejada, salvo el visto bueno, y la firma y rúbrica de Bolívar, que son autografos de éste
 
 

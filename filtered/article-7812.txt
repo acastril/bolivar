@@ -6,9 +6,9 @@ DOCUMENTO 2899 OFICIO DE BOLÍVAR PARA JOSÉ MARÍA FORTIQUE, FECHADO EN ANGOSTU
 
 Angostura, 25 de junio de 1818
 
-Al Ciudadano José María Fortique, Teniente de Cónsul
+Al Ciudadano José María Fortique, Teniente de Consul
 
-He tenido a bien nombrar al Licenciado Ramón García Cádiz, Prior del Consulado de esta ciudad, y habiendo llegado el Ciudadano Manuel Millán [1], Teniente de Cónsul, está completo el Tribunal [2]
+He tenido a bien nombrar al Licenciado Ramon García Cádiz, Prior del Consulado de esta ciudad, y habiendo llegado el Ciudadano Manuel Millán [1], Teniente de Consul, está completo el Tribunal [2]
 
 Dios, etc
 
@@ -20,6 +20,6 @@ Notas
 
 [1] Manuel Millán Comerciante residenciado en Angostura
 
-[2] Para información sobre este Tribunal, véase el documento nº 2318
+[2] Para informacion sobre este Tribunal, véase el documento nº 2318
 
 

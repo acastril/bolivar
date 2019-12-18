@@ -14,15 +14,15 @@ Ciudadano Juan Jurado
 
 Amigo:
 
-He recibido la carta [2] de Vd [3] con sumo dolor, porque veo por ella que Vds se obstinan en perecer a manos de nuestros soldados, que tienen orden de asaltar la ciudad y de no dejar por la espalda un solo habitante de cuantos puedan asesinarlos alevosamente por las calles, casas y ventanas, pues según se me ha informado, hasta los clérigos y las mujeres tienen armas arrojadizas para destruirnos Santafé va a presentar un espectáculo espantoso de desolación y muerte: las casas serán reducidas a cenizas, si por ellas se nos ofende Llevaré dos mil teas encendidas para reducir a pavesas una ciudad que quiere ser el sepulcro de sus libertadores y que recibe con oprobios, los más ultrajantes, al que viene de tan remotos países a romperle [4] las cadenas que sus enemigos quieren imponerle Esos cobardes tanto como fanáticos me llaman irreligioso y me nombran Nerón [5]; yo seré pues su Nerón, ya que me fuerzan a serlo contra los más vehementes sentimientos de mi corazón, que ama a los hombres, porque son [6] sus hermanos, y a los americanos porque son sus compañeros de cuna [7] y de infortunio Mi alma está despedazada con la sola contemplación [8] del temor de ver reducida a la nada una ciudad hermana de Caracas y madre [9] de algunos libertadores de Venezuela En fin, envío la última intimación; si es aceptada, yo soy el mejor amigo de ese país; si la rehusan ¡infelices los cómplices! [10] que cómplices de un crimen tan horrendo son los autores del desplomo de esa bella ciudad y de la muerte de sus hijos V puede hacer variar este decreto, y si no, es la segunda víctima después del presidente [11] Adiós, hasta que me vea como su libertador o su juez
+He recibido la carta [2] de Vd [3] con sumo dolor, porque veo por ella que Vds se obstinan en perecer a manos de nuestros soldados, que tienen orden de asaltar la ciudad y de no dejar por la espalda un solo habitante de cuantos puedan asesinarlos alevosamente por las calles, casas y ventanas, pues según se me ha informado, hasta los clérigos y las mujeres tienen armas arrojadizas para destruirnos Santafé va a presentar un espectáculo espantoso de desolacion y muerte: las casas serán reducidas a cenizas, si por ellas se nos ofende Llevaré dos mil teas encendidas para reducir a pavesas una ciudad que quiere ser el sepulcro de sus libertadores y que recibe con oprobios, los más ultrajantes, al que viene de tan remotos países a romperle [4] las cadenas que sus enemigos quieren imponerle Esos cobardes tanto como fanáticos me llaman irreligioso y me nombran Neron [5]; yo seré pues su Neron, ya que me fuerzan a serlo contra los más vehementes sentimientos de mi corazon, que ama a los hombres, porque son [6] sus hermanos, y a los americanos porque son sus companeros de cuna [7] y de infortunio Mi alma está despedazada con la sola contemplacion [8] del temor de ver reducida a la nada una ciudad hermana de Caracas y madre [9] de algunos libertadores de Venezuela En fin, envío la última intimacion; si es aceptada, yo soy el mejor amigo de ese país; si la rehusan ¡infelices los complices! [10] que complices de un crimen tan horrendo son los autores del desplomo de esa bella ciudad y de la muerte de sus hijos V puede hacer variar este decreto, y si no, es la segunda víctima después del presidente [11] Adios, hasta que me vea como su libertador o su juez
 
 S[imon] B[olivar]
 
 Es copia
 
-B[riceño] Méndez Secretario
+B[riceno] Méndez Secretario
 
-* Archivo del Libertador, Vol 21, folio 305 v° Copia autenticada escrita de puño y letra de Pedro Briceño Méndez, quien además la suscribe al pie con su firma y rúbrica En el mismo archivo, Vol 22, folio 255 y v° se transcribe el documento en el Libro copiador de letra de amanuense Se ha cotejado ambos documentos para fijar el texto de la presente edición, en la cual se sigue el de la copia autenticada y se anotan las variantes del copiador O’Leary, “Memorias”, XIII, pp 564-565, al insertar este documento, dice haberlo tomado del "original del Archivo", pero pertenece al grupo de documentos, cuyos originales no fueron recibidos por el Dr Vicente Lecuna, según lo atestigua en el informe que dirigió al Ministro de Instrucción Pública el 31 de julio de 1919 al recibir los tomos de documentos del Sr Miguel Sgobel Sobre el destinatario, véase la nota principal del Doc N° 970
+* Archivo del Libertador, Vol 21, folio 305 v° Copia autenticada escrita de puno y letra de Pedro Briceno Méndez, quien además la suscribe al pie con su firma y rúbrica En el mismo archivo, Vol 22, folio 255 y v° se transcribe el documento en el Libro copiador de letra de amanuense Se ha cotejado ambos documentos para fijar el texto de la presente edicion, en la cual se sigue el de la copia autenticada y se anotan las variantes del copiador O’Leary, “Memorias”, XIII, pp 564-565, al insertar este documento, dice haberlo tomado del "original del Archivo", pero pertenece al grupo de documentos, cuyos originales no fueron recibidos por el Dr Vicente Lecuna, según lo atestigua en el informe que dirigio al Ministro de Instruccion Pública el 31 de julio de 1919 al recibir los tomos de documentos del Sr Miguel Sgobel Sobre el destinatario, véase la nota principal del Doc N° 970
 
 Notas
 
@@ -34,15 +34,15 @@ Notas
 
 en "V"
 
-[4] En el copiador dice "romper" En la copia autenticada se agregó
+[4] En el copiador dice "romper" En la copia autenticada se agrego
 
 entre líneas el pronombre enclítico
 
 [5] Alude a una décima satírica, debida a la pluma del clérigo bogo
 
-tano Juan Manuel García Tejada, que circuló entonces en Bogotá y en
+tano Juan Manuel García Tejada, que circulo entonces en Bogotá y en
 
-Zipaquirá, la cual comenzaba: "Bolívar, el cruel / Nerón este Herodes sin
+Zipaquirá, la cual comenzaba: "Bolívar, el cruel / Neron este Herodes sin
 
 segundo  " y de esta guisa seguía en un vano intento de desopinar al
 
@@ -52,7 +52,7 @@ Libertador
 
 [7] En el coipador dice claramente: "causa" en vez de "cuna"
 
-[8] En el copiador dice: "con solo contemplación"
+[8] En el copiador dice: "con solo contemplacion"
 
 [9] En el copiador se lee: "y h madre"
 

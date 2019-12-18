@@ -8,7 +8,7 @@ Angostura, 2 de Noviembre de 1817
 
 Al Intendente [1]
 
-Ordeno a [2] Vmd que en lugar de las 10 yeguas en que se le mandó [3] pagar el valor de la lancha [4] que vendió al Estado el ciudadano Francisco Paula Navas [5], se le abone en ganado al precio de 24 pesos cada una, no teniendo lugar aquellas
+Ordeno a [2] Vmd que en lugar de las 10 yeguas en que se le mando [3] pagar el valor de la lancha [4] que vendio al Estado el ciudadano Francisco Paula Navas [5], se le abone en ganado al precio de 24 pesos cada una, no teniendo lugar aquellas
 
 Dios guarde, etc
 
@@ -20,9 +20,9 @@ Notas
 
 [1] El primer párrafo de este oficio está testado y dice así: "Disponga VS se le abonen al ciudadano Francisco Paula Navas en lugar de las diez yeguas"
 
-[2] Se había escrito primeramente: "Disponga", se testó y se interlineó "Ordeno a"
+[2] Se había escrito primeramente: "Disponga", se testo y se interlineo "Ordeno a"
 
-[3] Testado: "abonar" y se interlineó la palabra "pagar"
+[3] Testado: "abonar" y se interlineo la palabra "pagar"
 
 [4] Testado: "en"
 

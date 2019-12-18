@@ -6,9 +6,9 @@ DOCUMENTO 4068 OFICIO DE BOLÍVAR PARA EL CORONEL BERMÚDEZ, FECHADO EN SAN JOS�
 
 Cuartel General de San José de Cuenta, a 14 de Febrero de 1820
 
-Al Señor Coronel Bermúdez
+Al Senor Coronel Bermúdez
 
-Se le ofició dándole las noticias que se comunicaron al Señor Vicepresidente de Venezuela con esta misma fecha, con poco más o menos Y se le encarga la [comunica] [1] frecuencia en sus comunicaciones, el aumento y disciplina del ejército de Oriente, el buen tratamiento de los pueblos que están bajo su mando, y que diga el resultado del [la expedición] [2] cuerpo de ingleses que fue a buscar a Margarita
+Se le oficio dándole las noticias que se comunicaron al Senor Vicepresidente de Venezuela con esta misma fecha, con poco más o menos Y se le encarga la [comunica] [1] frecuencia en sus comunicaciones, el aumento y disciplina del ejército de Oriente, el buen tratamiento de los pueblos que están bajo su mando, y que diga el resultado del [la expedicion] [2] cuerpo de ingleses que fue a buscar a Margarita
 
 BOLÍVAR
 
@@ -18,6 +18,6 @@ Notas
 
 [1] Testado [comunica]
 
-[2] Testado [la expedición]
+[2] Testado [la expedicion]
 
 

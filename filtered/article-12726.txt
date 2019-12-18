@@ -14,8 +14,8 @@ Estoy [1] informado que algunos de los oficiales, sargentos, cabos y soldados d
 
 Notas
 
-[1] Interlineado "Estoy" donde se testó "Estando"
+[1] Interlineado "Estoy" donde se testo "Estando"
 
-[2] Interlineado "Venden algunas prendas de su vestuario" donde se testó "se ha enajenado de las alhajas que se les han dado
+[2] Interlineado "Venden algunas prendas de su vestuario" donde se testo "se ha enajenado de las alhajas que se les han dado
 
 

@@ -8,11 +8,11 @@ Payara 5 de febrero de 1818
 
 Al Comandante General de las fuerzas sutiles
 
-Oportunamente llegó a mis manos el oficio de VS de 31 del pasado, contestación al mío del 29
+Oportunamente llego a mis manos el oficio de VS de 31 del pasado, contestacion al mío del 29
 
-Desde el último del pasado estoy en este pueblo [1], incorporado con el señor General Páez [2], aguardando a que llegara el Comandante Padilla [3] con el parque y hospital para dirigir a VS los auxilios que necesita El lleva la carne salada y los marineros que han podido encontrarse, y aunque no son todos los que VS ha pedido, es indispensable que se conforme con ellos, porque no ha sido posible reunir más Todos los que entienden de marinería se han ocultado al saber que te les iba a llevar sobre San Fernando
+Desde el último del pasado estoy en este pueblo [1], incorporado con el senor General Páez [2], aguardando a que llegara el Comandante Padilla [3] con el parque y hospital para dirigir a VS los auxilios que necesita El lleva la carne salada y los marineros que han podido encontrarse, y aunque no son todos los que VS ha pedido, es indispensable que se conforme con ellos, porque no ha sido posible reunir más Todos los que entienden de marinería se han ocultado al saber que te les iba a llevar sobre San Fernando
 
-Después [4] que haya VS tripulado los buques del mejor modo posible [5] con los hombres que lleva el Comandante Padilla, seguirá por el Apure a apostarse en Orichuna [6], que está una jornada distante de San Fernando De allí entablará VS sus comunicaciones con el señor Coronel Miguel Guerrero [7], que queda encargado del mando de este pueblo y de las tropas que obran [8]por esta parte, mientras el ejército se dirige a Calabozo El ha recibido mis órdenes para auxiliar a VS con cuanto necesite, y particularmente le he encargado la solicitud de marineros para completar las tripulaciones Entiéndase VS con él, que le prestará todos los socorros que estén a su alcance
+Después [4] que haya VS tripulado los buques del mejor modo posible [5] con los hombres que lleva el Comandante Padilla, seguirá por el Apure a apostarse en Orichuna [6], que está una jornada distante de San Fernando De allí entablará VS sus comunicaciones con el senor Coronel Miguel Guerrero [7], que queda encargado del mando de este pueblo y de las tropas que obran [8]por esta parte, mientras el ejército se dirige a Calabozo El ha recibido mis ordenes para auxiliar a VS con cuanto necesite, y particularmente le he encargado la solicitud de marineros para completar las tripulaciones Entiéndase VS con él, que le prestará todos los socorros que estén a su alcance
 
 En Arichuna encontrará VS ganado para la subsistencia [9] de la escuadrilla, y allí mismo podrá VS hacer salar carne, si trae la sal necesaria; pero si antes de llegar VS a Arichuna necesitase cualquier especie de auxilios, el Coronel Guerrero está advertido de que se los preste por donde VS los pida
 
@@ -26,7 +26,7 @@ Dios, etc
 
 [BOLÍVAR]
 
-Del copiador Archivo del Libertador, vol 24 fol 284 Escrito de letra de Briceño Méndez El destinatario es el Capitán de Navío Antonio Díaz sobre quien puede verse la nota principal del documento nº 1809 En las Memorias de O’Leary dice "fuerzas militares", por fuerzas sutiles, lo cual es error de transcripción Payara es la misma población conocida como San Juan de Payara, hoy capital del Distrito Pedro Camejo del Estado Apure, Para las características del cuaderno copiador véase la nota principal del documento Nº 2646
+Del copiador Archivo del Libertador, vol 24 fol 284 Escrito de letra de Briceno Méndez El destinatario es el Capitán de Navío Antonio Díaz sobre quien puede verse la nota principal del documento nº 1809 En las Memorias de O’Leary dice "fuerzas militares", por fuerzas sutiles, lo cual es error de transcripcion Payara es la misma poblacion conocida como San Juan de Payara, hoy capital del Distrito Pedro Camejo del Estado Apure, Para las características del cuaderno copiador véase la nota principal del documento Nº 2646
 
 Notas
 
@@ -34,15 +34,15 @@ Notas
 
 [2] General de Brigada José Antonio Páez
 
-[3] José Padilla, Prócer colombiano nacido en Riohacha el 29 de marzo de I778 Se distinguió en muchas acciones, navales preferentemente Mandaba las fuerzas patriotas en la batalla naval de Maracaibo (24 de julio de 1823) donde obtuvo resonante victoria Murió en Bogotá el 2 de octubre de 1828
+[3] José Padilla, Procer colombiano nacido en Riohacha el 29 de marzo de I778 Se distinguio en muchas acciones, navales preferentemente Mandaba las fuerzas patriotas en la batalla naval de Maracaibo (24 de julio de 1823) donde obtuvo resonante victoria Murio en Bogotá el 2 de octubre de 1828
 
 [4] Este párrafo se había iniciado "El ejército marcha hoy de aquí", lo cual fue testado,
 
 [5] Testado "Seguirá"
 
-[6] Orichuna Con toda seguridad se refiere al pueblo de Arichuna Situado a unos 45 kilómetros al sureste de San Fernando de Apure Existe otra población con el nombre de Trinidad de Orichuna
+[6] Orichuna Con toda seguridad se refiere al pueblo de Arichuna Situado a unos 45 kilometros al sureste de San Fernando de Apure Existe otra poblacion con el nombre de Trinidad de Orichuna
 
-[7] Coronel Miguel Guerrero, prócer venezolano (Guanare Circa 1779 • Mérida 1832) Después General de Brigada
+[7] Coronel Miguel Guerrero, procer venezolano (Guanare Circa 1779 • Mérida 1832) Después General de Brigada
 
 [8] Testado "contra"
 

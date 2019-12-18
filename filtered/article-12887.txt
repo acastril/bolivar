@@ -20,6 +20,6 @@ Notas
 
 [1] Teniente Coronel James Rooke
 
-[2] Interlineado "Seguida" donde se testó "formada"
+[2] Interlineado "Seguida" donde se testo "formada"
 
 

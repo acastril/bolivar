@@ -8,7 +8,7 @@ Barcelona, enero 16 de 1817 7°
 
 Al General Freytes
 
-La situación [1] y estado de esta plaza han mejorado notablemente después de la [2] partida de VS El Batallón de Barcelona está casi enteramente repuesto, y aun lo estaría del todo, si muchos soldados no permaneciesen en sus casas por [3] estropeados El de Margarita consta ya de 136 [4] plazas efectivas, sin contar con [5] muchos heridos de fácil curación que están en los hospitales [6] La caballería pasa de 100 plazas con los Carabineros de Honor y de Santa Fe; la artillería y maestranza, 140 [7]; cívicos 52, y la Marina 170 Las obras de fortificación están ya casi concluidas, y esta fortaleza con la fuerza existente es intomable por [8] un grande ejército español Descanso sobre la actividad, celo y eficacia de VS Me prometo ver pacificados todos los pueblos que están en insurrección con [9] sólo la presencia de VS y las acertadas medidas que tome; no menos que la formación de una respetable División No creo necesario recordar a VS el envío de ganado a esta plaza, como el volar sobre ella en caso de que los enemigos se acerquen El Teniente Coronel Salcedo impondrá a VS de [10] nuestro estado, fuerzas y recursos
+La situacion [1] y estado de esta plaza han mejorado notablemente después de la [2] partida de VS El Batallon de Barcelona está casi enteramente repuesto, y aun lo estaría del todo, si muchos soldados no permaneciesen en sus casas por [3] estropeados El de Margarita consta ya de 136 [4] plazas efectivas, sin contar con [5] muchos heridos de fácil curacion que están en los hospitales [6] La caballería pasa de 100 plazas con los Carabineros de Honor y de Santa Fe; la artillería y maestranza, 140 [7]; cívicos 52, y la Marina 170 Las obras de fortificacion están ya casi concluidas, y esta fortaleza con la fuerza existente es intomable por [8] un grande ejército espanol Descanso sobre la actividad, celo y eficacia de VS Me prometo ver pacificados todos los pueblos que están en insurreccion con [9] solo la presencia de VS y las acertadas medidas que tome; no menos que la formacion de una respetable Division No creo necesario recordar a VS el envío de ganado a esta plaza, como el volar sobre ella en caso de que los enemigos se acerquen El Teniente Coronel Salcedo impondrá a VS de [10] nuestro estado, fuerzas y recursos
 
 Dios, &
 
@@ -20,13 +20,13 @@ Notas
 
 [1] Este oficio se había empezado a redactar de dos maneras distintas,
 
-que se testaron ambas Dicen: "Mucho me ha" y "Mi situación"
+que se testaron ambas Dicen: "Mucho me ha" y "Mi situacion"
 
 [2] Testado: "salida"
 
-[3] Testado: "razón de"
+[3] Testado: "razon de"
 
-[4] Se había escrito "160", y luego se rectificó encima
+[4] Se había escrito "160", y luego se rectifico encima
 
 [5] Testado: "infinitos"
 
@@ -34,9 +34,9 @@ que se testaron ambas Dicen: "Mucho me ha" y "Mi situación"
 
 [7] Testado: "y"
 
-[8] Testado: "más de 2000 hombres de línea" Se interlineó:"un
+[8] Testado: "más de 2000 hombres de línea" Se interlineo:"un
 
-grande ejército español"
+grande ejército espanol"
 
 [9] La palabra "con" está escrita sobre la palabra "por"
 

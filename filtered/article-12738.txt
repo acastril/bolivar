@@ -6,9 +6,9 @@ DOCUMENTO 3262 OFICIO DE BOLÍVAR PARA LOS MINISTROS DE LAS CAJAS NACIONALES DE 
 
 Angostura, 16 de setiembre de 1818
 
-A los señores Ministros de las Cajas Nacionales de esta plaza
+A los senores Ministros de las Cajas Nacionales de esta plaza
 
-Carguen Uds a la cuenta del señor Smith [1] mil cincuenta pesos, valor de setenta novillos que dispondrán Uds se le entreguen de las Misiones [2], a 15 pesos uno, libres de derechos
+Carguen Uds a la cuenta del senor Smith [1] mil cincuenta pesos, valor de setenta novillos que dispondrán Uds se le entreguen de las Misiones [2], a 15 pesos uno, libres de derechos
 
 Dios, etc
 
@@ -20,6 +20,6 @@ Notas
 
 [1] Testado "Setenta"
 
-[2] Interlineado "dispondrán ustedes se le entreguen de las misiones" donde se testó "se le han mandado entregar en esta fecha"
+[2] Interlineado "dispondrán ustedes se le entreguen de las misiones" donde se testo "se le han mandado entregar en esta fecha"
 
 

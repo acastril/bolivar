@@ -8,7 +8,7 @@ Angostura, 16 de junio de 1818
 
 Al Capitán Rosales
 
-Estoy informado que por no haber prácticos [1] en las bocas del río [2], han vuelto [3] a las Antillas algunos buques que se dirigían a nuestros puertos, causando esto [4] graves perjuicios a [5] la República Con el objeto pues de prever este mal, prevengo a Ud que inmediatamente ordene al ciudadano Simón Chastre venga a esta capital y se me presente Del mismo modo prevengo a Ud que en lo sucesivo no se cobre por el Almirantazgo el derecho para pagar los prácticos, sino por las Cajas Nacionales de esta plaza, hasta otra disposición
+Estoy informado que por no haber prácticos [1] en las bocas del río [2], han vuelto [3] a las Antillas algunos buques que se dirigían a nuestros puertos, causando esto [4] graves perjuicios a [5] la República Con el objeto pues de prever este mal, prevengo a Ud que inmediatamente ordene al ciudadano Simon Chastre venga a esta capital y se me presente Del mismo modo prevengo a Ud que en lo sucesivo no se cobre por el Almirantazgo el derecho para pagar los prácticos, sino por las Cajas Nacionales de esta plaza, hasta otra disposicion
 
 Dios, etc
 
@@ -20,12 +20,12 @@ Notas
 
 [1] Interlineado: "Prácticos"
 
-[2] Río Orinoco A continuación de la palabra "río" se testó "prácticos"
+[2] Río Orinoco A continuacion de la palabra "río" se testo "prácticos"
 
 [3] Testado: "varios buques"
 
-[4] Interlineado: "esto" donde se testó: "a con"
+[4] Interlineado: "esto" donde se testo: "a con"
 
-[5] Interlineado: "a" donde se testó: "de"
+[5] Interlineado: "a" donde se testo: "de"
 
 

@@ -4,9 +4,9 @@ Portada del sitio > 4) Período (07AGO AL 31DIC 1813) Correspondencia Oficial > 
 
 DOCUMENTO 453 RESOLUCIÓN DE BOLÍVAR FECHADA EN CARACAS EL 20 DE OCTUBRE DE 1813 POR LA QUE SE DECLARA BENEMÉRITO AMERICANO AL ESPAÑOL FRANCISCO LUGO*
 
-Simón Bolívar, Libertador de Venezuela y General en Jefe de sus Ejércitos
+Simon Bolívar, Libertador de Venezuela y General en Jefe de sus Ejércitos
 
-Por cuanto el ciudadano Francisco Lugo, aunque nacido en Islas Canarias ha manifestado sin embargo [1] la más constante adhesión a nuestra causa; pues [2], aun en los tiempos de la dura [3] tiranía de Monteverde [4] amparaba a los patriotas perseguidos, fomentaba el espíritu de independencia y daba avisos [5] fidedignos e importantes sobre las operaciones del Ejército Libertador; por tanto: mando a todas las Autoridades sujetas a mi jurisdicción le consideren como un benemérito americano, y en consecuencia no le comprendan en ninguna [6] manera bajo las órdenes que se han expedido y se expidieren sobre la prisión general de españoles y canarios
+Por cuanto el ciudadano Francisco Lugo, aunque nacido en Islas Canarias ha manifestado sin embargo [1] la más constante adhesion a nuestra causa; pues [2], aun en los tiempos de la dura [3] tiranía de Monteverde [4] amparaba a los patriotas perseguidos, fomentaba el espíritu de independencia y daba avisos [5] fidedignos e importantes sobre las operaciones del Ejército Libertador; por tanto: mando a todas las Autoridades sujetas a mi jurisdiccion le consideren como un benemérito americano, y en consecuencia no le comprendan en ninguna [6] manera bajo las ordenes que se han expedido y se expidieren sobre la prision general de espanoles y canarios
 
 Dada en el Cuartel General [de Ca]racas, a 20 de octubre de 1813 3° y 1°
 
@@ -16,7 +16,7 @@ SIMÓN BOLIVAR]
 
 [ANTONIO MUÑOZ TEBAR]
 
-* Archivo del Libertador, correspondencia oficial, folio 83 Borrador Totalmente de mano de Antonio Muñoz Tébar
+* Archivo del Libertador, correspondencia oficial, folio 83 Borrador Totalmente de mano de Antonio Munoz Tébar
 
 Notas
 
@@ -24,7 +24,7 @@ Notas
 
 [2] Testado: "en los"
 
-[3] Testado: "opresión"
+[3] Testado: "opresion"
 
 [4] Testado: "favorecía"
 

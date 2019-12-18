@@ -32,6 +32,10 @@ with open( file ) as handle :
 		line = re.sub( "\." , "", line)
 		line = re.sub( " \n" , "", line)
 		line = re.sub( "­" , "", line)
+
+		# normalize (eventually) for Solr
+		line = re.sub( "ñ" , "n", line)
+		line = re.sub( "ó" , "o", line)
 		
 		# check for blank line
 		if ( line == "\n" ) : continue

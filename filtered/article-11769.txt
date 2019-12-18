@@ -6,9 +6,9 @@ DOCUMENTO 5880 OFICIO DE BOLÍVAR AL CORONEL ESCALONA, FECHADO EN VALENCIA EL 13
 
 Véencúi, 13 de julio de 1821
 
-Al Señor Coronel Escalona
+Al Senor Coronel Escalona
 
-El mando de [esa Provincia] [1] la Provincia de Coro en todos sus ramos, que con fecha de 10 del presente se le ha prevenido por el Ministerio de la Guerra entregar al Señor Coronel Cruz Carrillo, lo entregará al Señor Coronel Justo Briceño, a quien se le ha conferido en este día por impedimento del Coronel Carrillo VS, pues, liara dicha [dimisión] [2] entrega en los mismos términos que se le previene en la referida orden del 10, con sólo la diferencia de que sea al Señor Coronel Briceño y de que VS venga a mi Cuartel General luego que se lo permita el estado de su salud
+El mando de [esa Provincia] [1] la Provincia de Coro en todos sus ramos, que con fecha de 10 del presente se le ha prevenido por el Ministerio de la Guerra entregar al Senor Coronel Cruz Carrillo, lo entregará al Senor Coronel Justo Briceno, a quien se le ha conferido en este día por impedimento del Coronel Carrillo VS, pues, liara dicha [dimision] [2] entrega en los mismos términos que se le previene en la referida orden del 10, con solo la diferencia de que sea al Senor Coronel Briceno y de que VS venga a mi Cuartel General luego que se lo permita el estado de su salud
 
 Dios guarde, &, &
 
@@ -20,6 +20,6 @@ Notas
 
 [1] Testado [es Provincia]
 
-[2] Testado [dimisión]
+[2] Testado [dimision]
 
 

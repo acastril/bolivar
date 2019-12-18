@@ -6,9 +6,9 @@ DOCUMENTO 3129 OFICIO DE BOLÍVAR PARA LOS MINISTROS DE LAS CAJAS NACIONALES DE 
 
 Angostura, 6 de agosto de 1818
 
-A los señores Ministros de las Cajas nacionales de esta plaza
+A los senores Ministros de las Cajas nacionales de esta plaza
 
-Desde la creación de la Intendencia de esta Provincia, y después por varias declaratorias, se determinó por el Gobierno Supremo que todos los bienes del Estado, de cualquiera clase que sean, están bajo la dirección de la Intendencia, debiéndose entender directa y únicamente sus administradores con el Intendente Extinguida la Intendencia [1] los Ministros de estas Cajas han sucedido en la dirección, manejo e inspección de los bienes del Estado al Intendente Los bienes que están del otro lado del Caroní no están exceptuados ni lo han estado nunca, y su administrador no debe entenderse en esta Provincia con respecto a su administración [2] sino con Vds y con el señor
+Desde la creacion de la Intendencia de esta Provincia, y después por varias declaratorias, se determino por el Gobierno Supremo que todos los bienes del Estado, de cualquiera clase que sean, están bajo la direccion de la Intendencia, debiéndose entender directa y únicamente sus administradores con el Intendente Extinguida la Intendencia [1] los Ministros de estas Cajas han sucedido en la direccion, manejo e inspeccion de los bienes del Estado al Intendente Los bienes que están del otro lado del Caroní no están exceptuados ni lo han estado nunca, y su administrador no debe entenderse en esta Provincia con respecto a su administracion [2] sino con Vds y con el senor
 
 Comandante general de la Provincia en [3] la parte civil y militar
 
@@ -22,7 +22,7 @@ Notas
 
 [1] Testado "declaro que"
 
-[2] Interlineado "Sino" donde se testó "que"
+[2] Interlineado "Sino" donde se testo "que"
 
 [3] Testado "lo gubernativo y"
 

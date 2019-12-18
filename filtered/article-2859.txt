@@ -6,15 +6,15 @@ DOCUMENTO 2106 : COMUNICACIÓN DE BOLÍVAR AL GENERAL MANUEL SEDEÑO, FECHADA EN
 
 Angostura, 30 de Septiembre de 1817
 
-Al General Sedeño
+Al General Sedeno
 
-Ayer llegaron a este puerto cuatro flecheras de las fuerzas sutiles del señor General Páez [1] con comunicaciones de dicho señor General de 19 del presente En ellas me comunica que [2] habiendo emprendido su marcha sobre la capital de Barinas a fines de julio según mis órdenes, tuvo la satisfacción de ocuparla el 14 de agosto, después [3] de haber batido y destruido completamente el Coronel Ramos [4] que la defendía Ciento cincuenta [5] hombres, la mayor parte españoles, quedaron sobre el campo de batalla, ciento fueron hechos prisioneros, dejando además Ramos cien fusiles, 4000 cartuchos y un inmenso botín de que se apoderaron nuestras tropas [6] Mil caballos [7] y doscientas muías con que, haciendo el último esfuerzo, auxilió la División [8] de Nutrias [9] a Barinas, cayeron también en manos del señor General Páez De manera que este golpe funesto debe haber consternado hasta lo sumo a los enemigos de Nutrias y San Fernando [10], cuyas escasas guarniciones deben esperar la misma suerte que la de Barinas
+Ayer llegaron a este puerto cuatro flecheras de las fuerzas sutiles del senor General Páez [1] con comunicaciones de dicho senor General de 19 del presente En ellas me comunica que [2] habiendo emprendido su marcha sobre la capital de Barinas a fines de julio según mis ordenes, tuvo la satisfaccion de ocuparla el 14 de agosto, después [3] de haber batido y destruido completamente el Coronel Ramos [4] que la defendía Ciento cincuenta [5] hombres, la mayor parte espanoles, quedaron sobre el campo de batalla, ciento fueron hechos prisioneros, dejando además Ramos cien fusiles, 4000 cartuchos y un inmenso botín de que se apoderaron nuestras tropas [6] Mil caballos [7] y doscientas muías con que, haciendo el último esfuerzo, auxilio la Division [8] de Nutrias [9] a Barinas, cayeron también en manos del senor General Páez De manera que este golpe funesto debe haber consternado hasta lo sumo a los enemigos de Nutrias y San Fernando [10], cuyas escasas guarniciones deben esperar la misma suerte que la de Barinas
 
-Las flecheras que han venido aquí solicitan armas y municiones para armar y equipar completamente un Batallón que el General Páez ha levantado, formado y disciplinado y con el que me ofrece exterminar a los de Nutrias y San Fernando en el caso de que yo no deliberase marchar en persona a incorporar este ejército con aquél
+Las flecheras que han venido aquí solicitan armas y municiones para armar y equipar completamente un Batallon que el General Páez ha levantado, formado y disciplinado y con el que me ofrece exterminar a los de Nutrias y San Fernando en el caso de que yo no deliberase marchar en persona a incorporar este ejército con aquél
 
 Nada puede contener [11] el ímpetu de nuestras tropas Ni el [12] valor, ni la táctica, ni el número de enemigos son obstáculos para los venezolanos [13]
 
-Es indispensable, pues, acelerar mis operaciones Termine VS las suyas en esa Provincia, de que dependen las que yo debo emprender para la pacificación y entera libertad del resto de la República
+Es indispensable, pues, acelerar mis operaciones Termine VS las suyas en esa Provincia, de que dependen las que yo debo emprender para la pacificacion y entera libertad del resto de la República
 
 Dios, etc
 
@@ -34,7 +34,7 @@ Notas
 
 [4] El militar venezolano Remigio Ramos, entonves al servicio de la causa monárquica, sobre quien puede consultarse la nota 23 del Doc N° 1867
 
-[5] Testado: “españoles quedaron la mayor”
+[5] Testado: “espanoles quedaron la mayor”
 
 [6] Testado: “Este ha sido el resultado del primer movimiento”
 
@@ -42,7 +42,7 @@ Notas
 
 [8] Testado: “que ocupaba”
 
-[9] Nutrias Véase, sobre esta población, la nota 12 del Doc N° 247
+[9] Nutrias Véase, sobre esta poblacion, la nota 12 del Doc N° 247
 
 [10] San Fernando de Apure, capital, hoy, del Estado Apure
 

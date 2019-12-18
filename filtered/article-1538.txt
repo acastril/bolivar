@@ -6,21 +6,21 @@ DOCUMENTO 1239 COMUNICACIÓN DEL LIBERTADOR SIMÓN BOLÍVAR AL SECRETARIO DE LA 
 
 Ciudadano Secretario de la guerra
 
-Tengo el honor de acompañar a VS los estados de los gastos que ha tenido el ejército en los meses de diciembre, enero y febrero
+Tengo el honor de acompanar a VS los estados de los gastos que ha tenido el ejército en los meses de diciembre, enero y febrero
 
-Por ellos se convencerá VS de que apenas hay existencias en la Comisaría para el consumo del presente mes, si compara la suma que tomé en esa ciudad [1] con las que se [2] han gastado La facción de Cartagena logra, al fin, ver agotada mi caja militar, sin que haya hecho el ejército una sola operación sobre el enemigo; y yo me veré forzado a empezar a obrar sin fondos con que ocurrir a las innumerables necesidades de un ejército en campaña El hospital solo consume una cantidad excesiva; pues apenas hay soldado ni oficial que no padezca alguna enfermedad Puede VS calcular cuáles son los gastos que se harán en este solo ramo al abrir la campaña, cuando sin tener ahora ni un herido, jamás faltan en el hospital 150 o 200 enfermos Agregue luego VS la carestía del país; cada soldado necesita diariamente para su mantenimiento dos reales, por lo menos, y yo desconfío que sea bastante esta ración Si el Gobierno general no toma sus prontas medidas sobre dinero, el ejército queda expuesto a graves males y a muchas pérdidas, ya de deserción, ya de muertes por falta de auxilios para la asistencia de las curaciones
+Por ellos se convencerá VS de que apenas hay existencias en la Comisaría para el consumo del presente mes, si compara la suma que tomé en esa ciudad [1] con las que se [2] han gastado La faccion de Cartagena logra, al fin, ver agotada mi caja militar, sin que haya hecho el ejército una sola operacion sobre el enemigo; y yo me veré forzado a empezar a obrar sin fondos con que ocurrir a las innumerables necesidades de un ejército en campana El hospital solo consume una cantidad excesiva; pues apenas hay soldado ni oficial que no padezca alguna enfermedad Puede VS calcular cuáles son los gastos que se harán en este solo ramo al abrir la campana, cuando sin tener ahora ni un herido, jamás faltan en el hospital 150 o 200 enfermos Agregue luego VS la carestía del país; cada soldado necesita diariamente para su mantenimiento dos reales, por lo menos, y yo desconfío que sea bastante esta racion Si el Gobierno general no toma sus prontas medidas sobre dinero, el ejército queda expuesto a graves males y a muchas pérdidas, ya de desercion, ya de muertes por falta de auxilios para la asistencia de las curaciones
 
-Los diez y seis mil pesos que vinieron de Honda, se han puesto a disposición del Comisionado Marimón [3], para que los destine a los usos que el Gobierno general le previno; pero él no ha querido llevarlos consigo, para evitar que sirvan contra nosotros, si no consigue establecer la unión, como es de temer
+Los diez y seis mil pesos que vinieron de Honda, se han puesto a disposicion del Comisionado Marimon [3], para que los destine a los usos que el Gobierno general le previno; pero él no ha querido llevarlos consigo, para evitar que sirvan contra nosotros, si no consigue establecer la union, como es de temer
 
-Por haber venido el ejército en pequeñas Divisiones, y por no haber llegado aún el todo, no he podido pasar una revista general, y dirigir a VS el estado general de él En el próximo correo irá el de las tropas que están aquí, si no se hubiese incorporado todavía el Comandante Martínez [4]
+Por haber venido el ejército en pequenas Divisiones, y por no haber llegado aún el todo, no he podido pasar una revista general, y dirigir a VS el estado general de él En el proximo correo irá el de las tropas que están aquí, si no se hubiese incorporado todavía el Comandante Martínez [4]
 
-Dios guarde a VS muchos años
+Dios guarde a VS muchos anos
 
 Cuartel General de Mompox, 6 de marzo de 1815-5°
 
 SIMÓN BOLÍVAR
 
-[Nota al margen: Santa fé, 6 de abril de 1815 Se han recibido los estados y se han tomado en consideración para providenciar (Hay tres rúbricas) Rodríguez (Rúbrica), fho en id
+[Nota al margen: Santa fé, 6 de abril de 1815 Se han recibido los estados y se han tomado en consideracion para providenciar (Hay tres rúbricas) Rodríguez (Rúbrica), fho en id
 
 Apéndice
 
@@ -32,7 +32,7 @@ Estado mayor del ejército 2540 2 ½
 
 Cuerpo nacional de artillería 258 6
 
-Batallón de Barlovento 2368 1 ½
+Batallon de Barlovento 2368 1 ½
 
 Id de Valencia 2551
 
@@ -40,7 +40,7 @@ Id de La Guaira 2394 1 ½
 
 Id del Socorro1534 5
 
-Escuadrón de Dragones 1355 4
+Escuadron de Dragones 1355 4
 
 Oficiales y cuerpos sueltos 1612 5
 
@@ -72,7 +72,7 @@ Estado Mayor del Ejército 3607 2 ½
 
 Cuerpo Nacional de Artillería 277 4
 
-Batallón de Barlovento 2230
+Batallon de Barlovento 2230
 
 Id de Caracas 2400
 
@@ -80,13 +80,13 @@ Id de La Guaira 2093 4
 
 Pesos Reales
 
-Batallón del Socorro 2631
+Batallon del Socorro 2631
 
 Id de Dragones 1400
 
 Artillería de Santa fé 387
 
-Batallón defensor de id 927
+Batallon defensor de id 927
 
 Guardias nacionales 663 63/4
 
@@ -98,13 +98,13 @@ Id de Milicias 120
 
 Milicias de Infantería 139 1 ½
 
-Comisaría del Norte: para 5 compañías que se reunieron al Auxiliar580
+Comisaría del Norte: para 5 companías que se reunieron al Auxiliar580
 
 A un Teniente Coronel de Ingenieros, y un capitán de Artillería 210
 
-Para socorro y manutención de 9 cabos segundos y 9 soldados que marcharon a Tunja 30 7½
+Para socorro y manutencion de 9 cabos segundos y 9 soldados que marcharon a Tunja 30 7½
 
-Pata, la compañía de Artillería que se está fundando
+Pata, la companía de Artillería que se está fundando
 
 en Santa fé, y sueldo de su Comandante 113 21/4
 
@@ -128,11 +128,11 @@ Id de la Proveeduría de víveres 919 5
 
 Por pago de 7 botiquines, una caja de cirugía y género para éstos  467 4
 
-Para pago de composición de fusiles, sin inclusión
+Para pago de composicion de fusiles, sin inclusion
 
 de lo que antes tenían recibidos los armeros 285
 
-Gastos hechos a Barlovento, sin inclusión de 90 pe
+Gastos hechos a Barlovento, sin inclusion de 90 pe
 
 sos pagados anteriormente 999 6
 
@@ -144,13 +144,13 @@ Id id al Socorro 4398 2
 
 Pesos Reales
 
-Gastos hechos al Escuadrón de Dragones 1777 5
+Gastos hechos al Escuadron de Dragones 1777 5
 
 Id id a la Artillería 10 2
 
 Id id de los pantalones y chaquetas hechos por mano
 
-del ciudadano Rizo, sin inclusión de 1000 pesos recibidos
+del ciudadano Rizo, sin inclusion de 1000 pesos recibidos
 
 en diciembre 2413
 
@@ -166,11 +166,11 @@ Para pago de 43 docenas de alpargatas 96
 
 Para id de las banderas mandadas al Llano 89
 
-Para id de 1000 carabañolas, sin incluir 200 pesos
+Para id de 1000 carabanolas, sin incluir 200 pesos
 
 pagados en el mes pasado487 4
 
-Para id de paño, casimir y pana para la ropa del
+Para id de pano, casimir y pana para la ropa del
 
 Ejército 410 6
 
@@ -190,15 +190,15 @@ Entregados a S E en dos partidas para suministrar los cuerpos que han ido adelan
 
 Al cuerpo de Artillería 424
 
-Al batallón de Caracas 470
+Al batallon de Caracas 470
 
 Al id de La Guaira 1200
 
-Al Escuadrón de Dragones  400
+Al Escuadron de Dragones  400
 
 Suman 60726 7 1/4
 
-Nota—Que no se incluye en esta cuenta el dinero que las tropas de Santa fé tomaron en la Tesorería de ella, ni tampoco lo que ha sido entregado a los cuerpos en ésta de Honda, pues las partidas que se manifiestan son todas entregadas por mí, sin incluir ningún gasto que haya tenido que hacer algún comisario de batallón por no haber pasado la cuenta a esta Comisaría General
+Nota—Que no se incluye en esta cuenta el dinero que las tropas de Santa fé tomaron en la Tesorería de ella, ni tampoco lo que ha sido entregado a los cuerpos en ésta de Honda, pues las partidas que se manifiestan son todas entregadas por mí, sin incluir ningún gasto que haya tenido que hacer algún comisario de batallon por no haber pasado la cuenta a esta Comisaría General
 
 Honda, febrero 1° de 1815
 
@@ -212,31 +212,31 @@ Estado Mayor del ejército  2919 3
 
 Cuerpo nacional de artillería 719 7 ½
 
-Batallón de Barlovento, incluso 250 pesos para raciones 3270
+Batallon de Barlovento, incluso 250 pesos para raciones 3270
 
-Id de Caracas, incluso 88 pesos para id sin inclusión de lo recibido en Honda 1746
+Id de Caracas, incluso 88 pesos para id sin inclusion de lo recibido en Honda 1746
 
 Id de La Guaira 1200
 
-Escuadrón de Dragones 1342 4
+Escuadron de Dragones 1342 4
 
-Fuerzas sutiles, con inclusión de 135 pesos para raciones 577 2 ½
+Fuerzas sutiles, con inclusion de 135 pesos para raciones 577 2 ½
 
-Batallón de Honor, con inclusión de raciones en
+Batallon de Honor, con inclusion de raciones en
 
 metálico 1165 4
 
 Id de Tunja con id id 244
 
-5° Batallón de esta plaza id id  589 6½
+5° Batallon de esta plaza id id  589 6½
 
-Gastos hechos al Batallón de Barlovento en el
+Gastos hechos al Batallon de Barlovento en el
 
 tránsito 78 1
 
 Id id al id del de Caracas en id 25
 
-Id id al Escuadrón de Dragones 52
+Id id al Escuadron de Dragones 52
 
 Gastos a la proveeduría de víveres 658
 
@@ -252,11 +252,11 @@ Id al inglés por ropa para la tropa, de orden de S E 2609 1½
 
 Id por hechura de estos vestidos  472 1
 
-A las tropas de Mompox que están en Ocaña  500
+A las tropas de Mompox que están en Ocana  500
 
 A oficiales y cuerpos sueltos  165
 
-Entregados al Coronel Ribón por orden de S E para gastos del ejército 2000
+Entregados al Coronel Ribon por orden de S E para gastos del ejército 2000
 
 En gastos generales  690 2
 
@@ -264,21 +264,21 @@ Buenas cuentas para el mes entrante  385
 
 29910 3½
 
-Nota—Que en esta cuenta están inclusos dos mil cuatrocientos noventa y cuatro pesos que en el estado pasado, del mes anterior,constaba habérsele dado a buena cuenta del mes presente a los cuerpos, y asimismo, rebajados cuatrocientos cincuenta y seis pesos, de los dos mil trescientos ochenta y un pesos que constan en el mismo, dados a buena cuenta de sueldos Y que el Batallón de La Guaira, se le debe deber del presente mes, mil y ochocientos a dos mil pesos; siempre que no haya recibido en alguna otra Tesorería
+Nota—Que en esta cuenta están inclusos dos mil cuatrocientos noventa y cuatro pesos que en el estado pasado, del mes anterior,constaba habérsele dado a buena cuenta del mes presente a los cuerpos, y asimismo, rebajados cuatrocientos cincuenta y seis pesos, de los dos mil trescientos ochenta y un pesos que constan en el mismo, dados a buena cuenta de sueldos Y que el Batallon de La Guaira, se le debe deber del presente mes, mil y ochocientos a dos mil pesos; siempre que no haya recibido en alguna otra Tesorería
 
 Mompox, febrero 28 de 1815-5°
 
 IGNACIO MARÍA ROMERO
 
-* Del original Archivo del Libertador, Vol 22, fol 112 La firma y rúbrica de Bolívar son autógrafas, en tanto que el cuerpo del documento está escrito enteramente de letra de Pedro Briceño Méndez La nota marginal es de amanuense no identificado pero la firma y rúbricas son autógrafas Se insertan en apéndice los estados de los gastos mencionados en el texto, cuyos originales se conservan en el Archivo del Libertador: El de diciembre de 1814, Vol 21, folio 336; el de enero de 1815, Vol 22, folio 48 y el de febrero de 1815, Vol 22, folio 100 Escritos todos de amanuenses no identificados, pero con firmas y rúbricas autógrafas del Comisario Ignacio María Romero
+* Del original Archivo del Libertador, Vol 22, fol 112 La firma y rúbrica de Bolívar son autografas, en tanto que el cuerpo del documento está escrito enteramente de letra de Pedro Briceno Méndez La nota marginal es de amanuense no identificado pero la firma y rúbricas son autografas Se insertan en apéndice los estados de los gastos mencionados en el texto, cuyos originales se conservan en el Archivo del Libertador: El de diciembre de 1814, Vol 21, folio 336; el de enero de 1815, Vol 22, folio 48 y el de febrero de 1815, Vol 22, folio 100 Escritos todos de amanuenses no identificados, pero con firmas y rúbricas autografas del Comisario Ignacio María Romero
 
 Notas
 
 [1] Es decir, Santa fé de Bogotá
 
-[2] La palabra "se" se añadió entre líneas
+[2] La palabra "se" se anadio entre líneas
 
-[3] El Canónigo Juan Marimón
+[3] El Canonigo Juan Marimon
 
 [4] Miguel Martínez Véase la nota principal del Doc N° 1209
 

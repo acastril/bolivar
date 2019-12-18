@@ -6,11 +6,11 @@ DOCUMENTO 2992 OFICIO (TESTADO) DE BOLÍVAR PARA LOS MINISTROS DE LAS CAJAS NACI
 
 Angostura, 7 de julio de 1818
 
-A los señores Ministros de las Cajas Nacionales de esta plaza
+A los senores Ministros de las Cajas Nacionales de esta plaza
 
-Con esta fecha he prevenido al señor Comandante General Presidente de la Municipalidad de esta ciudad, que ordene que las existencias de los [1] fondos de propios pasen a las Cajas del cargo de Vds, y que aquéllas [2] y lo que sucesivamente produzcan [3] dichos fondos se destinen para los gastos del hospital militar de esta plaza Vds, pues, darán entrada en las Cajas a las cantidades que ahora [4] entregue el administrador de propios y a las que sucesivamente entregare, llevando por seraparado este ramo, que no se invertirá en ningún otro objeto
+Con esta fecha he prevenido al senor Comandante General Presidente de la Municipalidad de esta ciudad, que ordene que las existencias de los [1] fondos de propios pasen a las Cajas del cargo de Vds, y que aquéllas [2] y lo que sucesivamente produzcan [3] dichos fondos se destinen para los gastos del hospital militar de esta plaza Vds, pues, darán entrada en las Cajas a las cantidades que ahora [4] entregue el administrador de propios y a las que sucesivamente entregare, llevando por seraparado este ramo, que no se invertirá en ningún otro objeto
 
-Deberán Vds también examinar, previa la audiencia del señor fiscal de Hacienda, las cuentas que presentare el administrador de propios
+Deberán Vds también examinar, previa la audiencia del senor fiscal de Hacienda, las cuentas que presentare el administrador de propios
 
 Dios, etc
 
@@ -22,7 +22,7 @@ Notas
 
 [1] Interlineado "existencias de los"
 
-[2] Interlineado "aquellos" donde se testó "en las"
+[2] Interlineado "aquellos" donde se testo "en las"
 
 [3] Testado "los"
 

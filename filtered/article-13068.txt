@@ -6,9 +6,9 @@ DOCUMENTO 3147 OFICIO DE BOLÍVAR PARA LOS MINISTROS DE LAS CAJAS NACIONALES DE 
 
 Angostura, 12 de agosto de 1818
 
-A los señores Ministros de las Cajas nacionales de esta plaza
+A los senores Ministros de las Cajas nacionales de esta plaza
 
-SE [1] el Almirante [2] tomó en la ciudad de la Baja Guayana al ciudadano Manuel Natera, Capitán de la goleta Aneta [3], veinte barriles de harina, cuatro bocoyes de ron, y veinte y cinco galones más del mismo licor; y estipuló con dicho Natera que dichos artículos se satisfarían en esta ciudad al precio corriente del día de su llegada En consecuencia prevengo a Vds que abonen a Natera el valor de ellos conforme a lo pactado por2 SE el Almirante
+SE [1] el Almirante [2] tomo en la ciudad de la Baja Guayana al ciudadano Manuel Natera, Capitán de la goleta Aneta [3], veinte barriles de harina, cuatro bocoyes de ron, y veinte y cinco galones más del mismo licor; y estipulo con dicho Natera que dichos artículos se satisfarían en esta ciudad al precio corriente del día de su llegada En consecuencia prevengo a Vds que abonen a Natera el valor de ellos conforme a lo pactado por2 SE el Almirante
 
 Dios, etc
 
@@ -22,7 +22,7 @@ Notas
 
 lo cual fue testado
 
-[2] Almirante Luis Brión
+[2] Almirante Luis Brion
 
 [3] Nave dinamarquesa En el copiador está escrito "Neta"
 

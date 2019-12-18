@@ -8,13 +8,13 @@ SIMÓN BOLÍVAR, LIBERTADOR,
 
 Presidente de la República de Colombia, Libertador de la del Perú y Encargado del Supremo mando de ella, &,&,&
 
-Teniendo en consideración:
+Teniendo en consideracion:
 
-I Que los regulares de San Juan de Dios son muy útiles por su instituto a la religión y a la humanidad;
+I Que los regulares de San Juan de Dios son muy útiles por su instituto a la religion y a la humanidad;
 
 II Que es conveniente ocuparlos en servicio de los enfermos;
 
-III Que los betlemitas [1] de esta ciudad por su corto número y otras circunstancias no se hallan en estado de desempeñar el objeto de su fundación;
+III Que los betlemitas [1] de esta ciudad por su corto número y otras circunstancias no se hallan en estado de desempenar el objeto de su fundacion;
 
 Decreto:
 
@@ -26,7 +26,7 @@ Decreto:
 
 4° El prefecto del departamento cuidará, con el mayor celo y vigilancia del puntual cumplimiento de este decreto
 
-5° El secretario general interino queda encargado de su ejecución y cumplimiento
+5° El secretario general interino queda encargado de su ejecucion y cumplimiento
 
 Imprímase, publíquese y circúlese
 
