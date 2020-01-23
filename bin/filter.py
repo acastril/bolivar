@@ -35,7 +35,17 @@ with open( file ) as handle :
 
 		# normalize (eventually) for Solr
 		line = re.sub( "ñ" , "n", line)
+		line = re.sub( "Ñ" , "N", line)
+		line = re.sub( "Á" , "A", line)
+		line = re.sub( "á" , "a", line)
+		line = re.sub( "é" , "e", line)
+		line = re.sub( "É" , "E", line)
+		line = re.sub( "í" , "i", line)
+		line = re.sub( "Í" , "I", line)
+		line = re.sub( "Ó" , "O", line)
 		line = re.sub( "ó" , "o", line)
+		line = re.sub( "Ú" , "U", line)
+		line = re.sub( "ú" , "u", line)
 		
 		# check for blank line
 		if ( line == "\n" ) : continue
