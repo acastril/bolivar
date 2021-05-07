@@ -1,0 +1,95 @@
+
+
+Search Help
+
+This is a guide to using the script named ./bin/search.sh
+
+Enter the command sans any arguments to get a terse description of the command:
+
+  $ ./bin/search.sh
+  Usage: ./bin/search.sh <columns|csv|lines|tabs> <query>
+  
+
+Output formats
+
+The script's input is in two parts: 1) output format, and 2) query. There are four output formats:
+
+  1. columns - make the output look like a spreadsheet
+  2. csv - output a comma-separated value stream suitable as input
+	 for any spreadsheet application
+  3. lines - make the output look like little paragraphs
+  4. tabs - just like csv, but the delimiters are tab characters not
+	 commas
+  
+Given these option and a query like "social", examples include:
+
+  $ ./bin/search.sh columns social
+  $ ./bin/search.sh csv social
+  $ ./bin/search.sh lines social
+  $ ./bin/search.sh tabs social
+
+For all around use, I suggest you use the "lines" option. There may be many many results, so it is a good idea to pipe the results through "less":
+
+  $ ./bin/search.sh lines social | less
+
+The "columns" option makes things look like a spreadsheet, but the spreadsheet is usually too long and wide to see it very well. That is why you might want to pipe the results through "less" with the -S switch:
+
+  $ ./bin/search.sh columns social | less -S
+
+If you want to open the search results in your spreadsheet application, then redirect the "csv" results to a file, and then open the file in your spreadsheet program. This technique is great if you want sort the results in any number of different ways:
+
+  $ ./bin/search.sh csv social > social.csv 
+  
+The "tabs" option exists so other applications can easy parse the output, like ./bin/make-subset.sh. For example, use the following command to find items containing the word "social", and then copy the matching files to a directory called "subset":
+
+  $ ./bin/search.sh tabs social | xargs -0 ./bin/make-subset.sh
+
+
+Queries
+
+The second part of the ./bin/search.sh command is the query used to search the index. Queries can be very expressive, for example:
+
+  * foo - find all documents containing the word "foo"
+
+  * bar - find all documents containing the word "bar"
+
+  * foo AND bar - find all documents containing the word "foo" and
+    who also contain the word "bar"
+
+  * foo OR bar - find all documents containing the word "foo" in
+    addition to the documents containing "bar"
+
+  * foo NOT bar - foo documents but not bar documents
+
+  * "foo bar" - find documents containing the phrase "foo bar"
+
+  * "foo*" - find all documents with words beginning with "foo"
+
+  * year:1887 - find all documents written in the year 1887; other
+    "fields" besides year include day, month, addressee, and type
+
+When writing queries, it is necessary to surround them with single-quote marks ('), like this:
+
+  * 'foo'
+  * 'foo AND bar'
+  * '"foo bar" AND baz'
+  * 'foo AND bar AND baz AND addressee:general*'
+
+More examples:
+
+  * ./bin/search.sh lines social
+  * ./bin/search.sh lines social | less
+  * ./bin/search.sh columns social | less -S
+  * ./bin/search.sh lines '"social justice"' | less
+  * ./bin/search.sh lines '"social justice" AND year:1883' | less
+  * ./bin/search.sh csv '"social justice" AND year:1883' > social-justice-1883.csv
+  * ./bin/search.sh tabs '"social justice" AND year:1883' | xargs -0 ./bin/make-subset.sh
+
+
+Summary
+
+Know your database (index) is full of good content. You MUST articulate a question you want to answer. You then need to express your question as a query. Apply the query to the database and use the "lines" and/or "columns" output options to get an overview of the results. Refine your query and repeat. When you think your query is well-refined, then use the "tabs" output mode in combination with the ./bin/make-subset.sh command to save the results to a directory, and then use AntConc to more closely "read" the items in the directory.
+
+--
+Eric Lease Morgan <emorgan@nd.edu>
+May 7, 2021

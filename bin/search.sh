@@ -26,7 +26,7 @@ QUERY=$2
 if [[ $MODE == 'tabs' ]]; then
 	MODE='.mode tabs'
 elif [[ $MODE == 'columns' ]]; then
-	MODE=".mode columns"
+	MODE=".headers on\n.mode columns"
 elif [[ $MODE == 'csv' ]]; then
 	MODE=".headers on\n.mode csv"
 elif [[ $MODE == 'lines' ]]; then

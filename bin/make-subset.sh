@@ -21,10 +21,9 @@ rm -rf $SUBSET
 mkdir -p $SUBSET
 
 # loop through each item in the input
-for FILE in "$@"; do
+for RECORD in "$@"; do
 
-	# re-initialize and do the work
-	FILE="$FILTERED/$FILE.txt"
+	FILE=$( echo -e "$RECORD" | cut -f9 )
 	cp $FILE $SUBSET
 	
 # fini
